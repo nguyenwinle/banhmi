@@ -1,0 +1,10 @@
+.checkoutProduct {
+    display: flex;
+    padding: 8px;
+    margin-bottom: 16px;
+    .checkoutProduct__image {
+        max-width: 200px;
+        max-height: auto;
+        padding-right: 16px;
+    }
+}
