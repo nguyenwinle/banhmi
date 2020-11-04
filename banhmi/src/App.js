@@ -4,16 +4,23 @@ import './sass/main.scss';
 import Header from './Header'
 import Home from './pages/Home'
 import Checkout from './pages/Checkout'
+import Login from './pages/Login'
 
 function App() {
   return (
     // BEM
     <Router>
       <div className="App">
-        <Header />
         <Switch>
-          <Route path="/" exact component={Home} />
-          <Route path="/checkout" component={Checkout} />
+          <Route path="/login" exact component={Login} />
+          <Route path="/" exact  >
+            <Header />
+            <Home />
+          </Route>
+          <Route path="/checkout" >
+            <Header />
+            <Checkout />
+          </Route>
         </Switch>
       </div>
     </Router>

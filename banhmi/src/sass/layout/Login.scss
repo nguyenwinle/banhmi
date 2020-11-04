@@ -1,0 +1,27 @@
+.login {
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-image: linear-gradient(to bottom, #ff073a, #ef103c, #e0163e, #d01b3f, #c01f3f);
+    flex-direction: column;
+    h1 {
+        color: white;
+        font-size: 40px;
+        text-align: center;
+        text-transform: uppercase;
+    }
+    .logo {
+        width: 200px;
+        -webkit-filter: drop-shadow(5px 5px 5px rgb(59, 59, 59));
+        filter: drop-shadow(5px 5px 5px rgb(59, 59, 59));
+        transform: skewY(-6deg);
+        object-fit: contain;
+    }
+    .login__container {
+        form {
+            display: flex;
+            flex-direction: column;
+        }
+    }
+}

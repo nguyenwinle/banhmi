@@ -5,10 +5,10 @@ const Home = () => {
     return (
         <div className="home">
             <div className="home__container">
-                <img
+                {/* <img
                     className="home__image"
                     src="https://i.pinimg.com/originals/30/f6/61/30f66165e45624f4efdfc239bb847643.jpg"
-                />
+                /> */}
                 <div className="home__row">
                     <Product
                         id="8781"

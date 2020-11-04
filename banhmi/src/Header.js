@@ -9,16 +9,16 @@ const Header = () => {
 
     return (
         <div className="header">
-            <Link to="/"><img className="header__logo" src="https://cdn0.iconfinder.com/data/icons/foods-and-meals-1/24/food-sandwich-baguette-512.png" /></Link>
-            <div className="header__search">
+            <Link to="/"><img className="header__logo" src="https://cdn0.iconfinder.com/data/icons/foods-and-meals-1/24/food-sandwich-baguette-512.png" /><p>Breaking Bread</p></Link>
+            {/* <div className="header__search">
                 <input className="header__searchInput" type="text" />
                 <div className="header__searchIcon">
                     <SearchIcon />
                 </div>
-            </div>
+            </div> */}
             <div className="header__nav">
                 <div className="header__option">
-                    <span className="header__optionLine">Sign In</span>
+                    <Link to="/login"> <span className="header__optionLine">Sign In</span> </Link>
                 </div>
                 <div className="header__option">
                     <span className="header__optionLine">Orders</span>
@@ -27,7 +27,7 @@ const Header = () => {
                     <div className="header__optionBasket">
                         <ShoppingCartIcon />
                         <span className="header__optionLine__count">
-                            {basket?.length}
+                            {basket ?.length}
                         </span>
                     </div>
                 </Link>
