@@ -7,7 +7,6 @@ const Login = () => {
         <div className="login">
             <Link to="/"><img className="logo" src={Logo} alt="logo" /></Link>
             <div className="login__container">
-                <h1>Sign In</h1>
                 <form>
                     <input type="text" id="email" name="email" placeholder="Email" />
                     <input type="password" id="lname" name="password" placeholder="Password" />
