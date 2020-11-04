@@ -22,6 +22,42 @@
         form {
             display: flex;
             flex-direction: column;
+            label {
+                font-size: 18px;
+                color: #fff;
+                margin-bottom: 8px;
+                text-transform: uppercase;
+            }
+            input {
+                margin-bottom: 16px;
+                width: 300px;
+                outline: none;
+                height: 20px;
+                border: 1px solid white;
+                background: transparent;
+                border-radius: 5px;
+                padding: 3px 6px;
+                background: white;
+            }
+            button {
+                width: 100%;
+                margin-bottom: 8px;
+                background: #222;
+                color: #fff;
+                outline: none;
+                border: none;
+                height: 30px;
+                border-radius: 5px;
+            }
+        }
+        button {
+            width: 100%;
+            background: #222;
+            color: #fff;
+            outline: none;
+            border: none;
+            height: 30px;
+            border-radius: 5px;
         }
     }
 }
