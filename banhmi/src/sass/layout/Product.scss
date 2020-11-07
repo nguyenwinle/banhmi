@@ -1,8 +1,7 @@
 .product {
     display: flex;
     flex-direction: column;
-    z-index: 1;
-    background-color: rgba(34, 34, 34, 0.2);
+    z-index: 1; // background-color: rgba(34, 34, 34, 0.2);
     align-items: center;
     justify-content: flex-end;
     margin: 10px;
@@ -10,6 +9,7 @@
     width: 100%;
     max-height: 400px;
     min-width: 100px;
+    border: 1px solid #eee;
     .product__info {
         margin-top: 5px;
     }
