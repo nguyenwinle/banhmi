@@ -1,0 +1,48 @@
+.menu {
+    position: sticky;
+    top: 45px;
+    z-index: 1;
+    background: white;
+    width: 80vw;
+    .rc-tabs {
+        border: none;
+        .rc-tabs-nav-wrap {
+            border: 1px solid rgba(0, 0, 0, 0.3);
+            display: flex;
+            justify-content: center;
+        }
+        .rc-tabs-nav-wrap .rc-tabs-nav-list {
+            .rc-tabs-tab-btn {
+                outline: none;
+                padding: 8px;
+                font-family: $mainFont;
+                color: red;
+            }
+            .rc-tabs-tab-active {
+                background: red;
+                div {
+                    color: #fff;
+                }
+            }
+            .rc-tabs-tab {
+                padding: 0 32px;
+                .rc-tabs-ink-bar {
+                    background: red !important;
+                }
+            }
+        }
+        .rc-tabs-tabpane {
+            outline: none;
+        }
+        .rc-tabs-content {
+            padding: 8px 8px 8px 32px;
+            font-family: MyFont;
+            table {
+                font-size: 18px;
+            }
+        }
+    }
+    .rc-tabs-ink-bar {
+        background: red;
+    }
+}

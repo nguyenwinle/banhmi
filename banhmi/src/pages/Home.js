@@ -5,6 +5,7 @@ import { getBasketTotal } from '../reducer'
 import { useHistory } from 'react-router-dom'
 import Product from '../Product'
 import Hero from '../Hero'
+import Menu from '../Menu'
 
 const Home = () => {
     const [{ basket }, dispatch] = useStateValue();
@@ -14,6 +15,7 @@ const Home = () => {
     return (
         <div className="home">
             <Hero />
+            <Menu />
             <div className="home__container">
                 <div className="home__row">
                     <Product

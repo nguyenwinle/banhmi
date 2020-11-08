@@ -19,20 +19,18 @@
     .nav-bottom {
         // position: fixed;
         position: fixed;
-        height: 84vh;
+        height: 100vh;
         width: 20vw;
         display: flex;
         align-items: center;
-        top: 8vh;
-        right: 32px;
+        top: 0;
+        right: 0;
         background: red;
         z-index: 10;
         display: flex;
         justify-content: flex-end;
         color: #fff;
-        padding: 16px;
-        border-radius: 10px;
-        box-shadow: 0 20px 50px -14px rgba(0, 0, 0, 0.3);
+        padding: 16px; // box-shadow: 0 20px 50px -14px rgba(0, 0, 0, 0.3);
         button {
             background: red;
             color: #fff;
