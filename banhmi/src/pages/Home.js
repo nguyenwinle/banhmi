@@ -4,6 +4,7 @@ import { useStateValue } from '../StateProvider'
 import { getBasketTotal } from '../reducer'
 import { useHistory } from 'react-router-dom'
 import Product from '../Product'
+import Hero from '../Hero'
 
 const Home = () => {
     const [{ basket }, dispatch] = useStateValue();
@@ -12,11 +13,8 @@ const Home = () => {
 
     return (
         <div className="home">
+            <Hero />
             <div className="home__container">
-                {/* <img
-                    className="home__image"
-                    src="https://i.pinimg.com/originals/30/f6/61/30f66165e45624f4efdfc239bb847643.jpg"
-                /> */}
                 <div className="home__row">
                     <Product
                         id="8781"
@@ -32,8 +30,6 @@ const Home = () => {
                         image="https://grannys.ca/wp-content//uploads/2017/09/BahnMiSandwich.jpg"
                         price={6.00}
                     />
-                </div>
-                <div className="home__row">
                     <Product
                         id="38099"
                         title="Spicy Pork Sandwich"
@@ -55,8 +51,6 @@ const Home = () => {
                         image="https://grannys.ca/wp-content//uploads/2017/09/BahnMiSandwich.jpg"
                         price={6.00}
                     />
-                </div>
-                <div className="home__row">
                     <Product
                         id="8767"
                         title="Bangin Special Sandwich"
