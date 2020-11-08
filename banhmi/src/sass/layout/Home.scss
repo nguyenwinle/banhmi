@@ -19,4 +19,30 @@
         margin-left: 5px;
         margin-right: 5px;
     }
+    .nav-bottom {
+        position: fixed;
+        height: 50px;
+        bottom: 16px;
+        right: 16px;
+        background: #222;
+        z-index: 10;
+        display: flex;
+        justify-content: flex-end;
+        color: #fff;
+        padding: 16px;
+        border-radius: 10px;
+        box-shadow: 0 20px 50px -14px rgba(0, 0, 0, 0.3);
+        button {
+            background: #222;
+            color: #fff;
+            height: 100%;
+            border: none;
+            margin-left: 16px;
+            border-left: 1px solid #fff;
+            padding-left: 16px;
+        }
+        button:hover {
+            cursor: pointer;
+        }
+    }
 }

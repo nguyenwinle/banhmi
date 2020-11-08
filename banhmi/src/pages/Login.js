@@ -19,19 +19,19 @@ const Login = () => {
             .catch(error => alert(error.message))
     }
 
-    const register = e => {
-        e.preventDefault();
+    // const register = e => {
+    //     e.preventDefault();
 
-        // do some fancy firebase register
-        auth.createUserWithEmailAndPassword(email, password)
-            // successfully created user
-            .then((auth) => {
-                if (auth) {
-                    history.push('/')
-                }
-            })
-            .catch(error => alert(error.message))
-    }
+    //     // do some fancy firebase register
+    //     auth.createUserWithEmailAndPassword(email, password)
+    //         // successfully created user
+    //         .then((auth) => {
+    //             if (auth) {
+    //                 history.push('/')
+    //             }
+    //         })
+    //         .catch(error => alert(error.message))
+    // }
 
     return (
         <div className="login">
@@ -42,9 +42,8 @@ const Login = () => {
                     <input type="password" id="lname" name="password" placeholder="Password" value={password} onChange={e => setPassword(e.target.value)} />
                     <button type="submit" onClick={signIn} >Sign In</button>
                 </form>
-                <button onClick={register} >Create account</button>
             </div>
-
+            <Link to="/signup">Create account</Link>
         </div>
     );
 };

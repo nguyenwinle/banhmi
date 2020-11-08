@@ -1,7 +1,15 @@
 import React from 'react';
+import CurrencyFormat from 'react-currency-format'
+import { useStateValue } from '../StateProvider'
+import { getBasketTotal } from '../reducer'
+import { useHistory } from 'react-router-dom'
 import Product from '../Product'
 
 const Home = () => {
+    const [{ basket }, dispatch] = useStateValue();
+
+    const history = useHistory()
+
     return (
         <div className="home">
             <div className="home__container">
@@ -57,6 +65,19 @@ const Home = () => {
                         price={7.00}
                     />
                 </div>
+            </div>
+            <div className="nav-bottom">
+                <CurrencyFormat
+                    //optional chaining
+                    renderText={(value) => (<p>Subtotal ({basket ?.length} {basket ?.length > 1 ? 'items' : 'item'}): <strong>{value}</strong></p>)}
+                    decimalScale={2}
+                    value={getBasketTotal(basket)}
+                    displayType={"text"}
+                    thousandSeparator={true}
+                    prefix={"$"}
+                >
+                </CurrencyFormat>
+                <button onClick={e => { basket.length > 0 ? history.push("/checkout") : e.preventDefault() }}>{basket.length > 0 ? 'Review Items' : 'Basket is Empty'}</button>
             </div>
         </div>
     );

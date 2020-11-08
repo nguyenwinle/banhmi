@@ -6,6 +6,7 @@ import Home from './pages/Home'
 import Checkout from './pages/Checkout'
 import Payment from './pages/Payment'
 import Login from './pages/Login'
+import Signup from './pages/Signup'
 import Orders from './pages/Orders'
 import { auth } from './firebase'
 import { useStateValue } from './StateProvider'
@@ -16,7 +17,8 @@ const promise = loadStripe("pk_test_51HkyuSBH105OqfN2LWMi53AOKVQRinVC0unHVRfsNUj
 
 function App() {
   //only run once when the app component loads
-  const [{ }, dispatch] = useStateValue()
+  const [{ user }, dispatch] = useStateValue()
+
   useEffect(() => {
     auth.onAuthStateChanged(authUser => {
       if (authUser) {
@@ -40,7 +42,8 @@ function App() {
     <Router>
       <div className="App">
         <Switch>
-          <Route path="/login" exact component={Login} />
+          <Route path={"/login"} exact component={Login} />
+          <Route path="/signup" exact component={Signup} />
           <Route path="/" exact  >
             <Header />
             <Home />
