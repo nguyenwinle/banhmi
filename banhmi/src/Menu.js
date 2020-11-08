@@ -6,14 +6,17 @@ const Menu = () => {
     return (
         <div className="menu">
             <Tabs >
-                <TabPane tab="tab 1" key="1">
-                    first
+                <TabPane tab="Speciality" key="1">
+                    Specialties
                 </TabPane>
-                <TabPane tab="tab 2" key="2">
-                    second
+                <TabPane tab="Sandwiches" key="2">
+                    Sandwiches
                 </TabPane>
-                <TabPane tab="tab 3" key="3">
-                    third
+                <TabPane tab="Combos" key="3">
+                    Combos
+                </TabPane>
+                <TabPane tab="Drinks" key="4">
+                    Drinks
                 </TabPane>
             </Tabs>
         </div>

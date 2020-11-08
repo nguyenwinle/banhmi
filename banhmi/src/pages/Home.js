@@ -6,6 +6,7 @@ import { useHistory } from 'react-router-dom'
 import Product from '../Product'
 import Hero from '../Hero'
 import Menu from '../Menu'
+import CheckoutProduct from '../CheckoutProduct'
 
 const Home = () => {
     const [{ basket }, dispatch] = useStateValue();
@@ -62,7 +63,19 @@ const Home = () => {
                     />
                 </div>
             </div>
-            <div className="nav-bottom">
+            <div className="home__checkout">
+                {basket.length === 0 && <p>Your basket is empty. Add items to get started.</p>}
+                {
+                    basket.map(item => (
+                        <CheckoutProduct
+                            id={item.id}
+                            title={item.title}
+                            description={item.description}
+                            image={item.image}
+                            price={item.price}
+                        />
+                    ))
+                }
                 <CurrencyFormat
                     //optional chaining
                     renderText={(value) => (<p>Subtotal ({basket ?.length} {basket ?.length > 1 ? 'items' : 'item'}): <strong>{value}</strong></p>)}
