@@ -1,0 +1,10 @@
+.payment {
+    display: flex;
+
+    .payment__title {
+        flex: 0.2;
+    }
+    .payment__details {
+        flex: 0.8;
+    }
+}
