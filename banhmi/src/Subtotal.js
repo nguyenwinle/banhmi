@@ -13,7 +13,7 @@ const Subtotal = () => {
         <div className="subtotal">
             <CurrencyFormat
                 //optional chaining
-                renderText={(value) => (<p>Subtotal ({basket ?.length} items): <strong>{value}</strong></p>)}
+                renderText={(value) => (<p>Subtotal ({basket ?.length} {basket ?.length > 1 ? 'items' : 'item'}): <strong>{value}</strong></p>)}
                 decimalScale={2}
                 value={getBasketTotal(basket)}
                 displayType={"text"}
@@ -21,7 +21,7 @@ const Subtotal = () => {
                 prefix={"$"}
             >
             </CurrencyFormat>
-            <button onClick={e => {basket.length > 0 ? history.push("/payment") : e.preventDefault()}}>{basket.length > 0 ? 'Proceed to Checkout' : 'Basket is Empty'}</button>
+            <button onClick={e => { basket.length > 0 ? history.push("/payment") : e.preventDefault() }}>{basket.length > 0 ? 'Proceed to Checkout' : 'Basket is Empty'}</button>
         </div>
     );
 };

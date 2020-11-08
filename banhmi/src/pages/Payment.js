@@ -7,6 +7,7 @@ import CurrencyFormat from 'react-currency-format'
 import { getBasketTotal } from '../reducer'
 import axios from 'axios'
 import { instance } from '../axios'
+import { db } from '../firebase'
 
 const Payment = () => {
     const [{ basket, user }, dispatch] = useStateValue()
@@ -22,7 +23,7 @@ const Payment = () => {
     const [clientSecret, setClientSecret] = useState(true)
 
     //whenever there is a change
-    useEffect(()=> {
+    useEffect(() => {
         // generate the special stripe secret which allows us to chargr customer
         const getClientSecret = async () => {
             // make request for secret
@@ -35,7 +36,7 @@ const Payment = () => {
         }
 
         getClientSecret();
-    },[basket])
+    }, [basket])
 
     const handleSubmit = async (event) => {
         event.preventDefault()
@@ -47,21 +48,25 @@ const Payment = () => {
             payment_method: {
                 card: elements.getElement(CardElement)
             }
-        }).then(({paymentIntent}) => {
+        }).then(({ paymentIntent }) => {
             // paymentIntent = payment confirmation
+            db
+                .collection('users')
+                .doc(user ?.uid)
+                .collection('orders')
+                .doc(paymentIntent.id)
+                .set({
+                    basket: basket,
+                    amount: paymentIntent.amount,
+                    created: paymentIntent.created
+                })
+
             setSucceeded(true)
             setError(null)
             setProcessing(false)
 
             dispatch({
                 type: 'EMPTY_BASKET',
-                item: {
-                    id: id,
-                    title: title,
-                    description: description,
-                    image: image,
-                    price: price
-                }
             })
 
             history.replace('/orders')
@@ -73,11 +78,12 @@ const Payment = () => {
         setError(event.error ? event.error.message : "")
     }
 
+    console.log(basket)
     return (
         <div className="payment">
             <div className="payment__container">
-                <h1>Checkout (<Link to="/checkout">{basket ?.length} items</Link>)</h1>
-                <div className="payment__section">
+                <h1>Checkout (<Link to="/checkout">{basket ?.length} {basket ?.length > 1 ? 'items' : 'item'}</Link>)</h1>
+                {/* <div className="payment__section">
                     //address
                     <div className="payment__title">
                         Delivery Address
@@ -87,14 +93,14 @@ const Payment = () => {
                         <p>address</p>
                         <p>address</p>
                     </div>
-                </div>
+                </div> */}
                 <div className="payment__section">
                     <div className="payment__title">
                         Review Items
                     </div>
                 </div>
                 <div className="payment__items">
-                    {basket.map((item) => {
+                    {basket ?.map((item) => (
                         <CheckoutProduct
                             id={item.id}
                             title={item.title}
@@ -102,7 +108,7 @@ const Payment = () => {
                             price={item.price}
                             description={item.description}
                         />
-                    })}
+                    ))}
                 </div>
                 <div className="payment__section">
                     <div className="payment__title">Payment Method</div>

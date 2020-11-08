@@ -26,7 +26,7 @@ const Header = () => {
                     <Link to={!user && "/login"}> <span className="header__optionLine">{user ? 'Sign Out' : 'Sign In'}</span> </Link>
                 </div>
                 <div className="header__option">
-                    <span className="header__optionLine">Orders</span>
+                    <Link to="/orders"><span className="header__optionLine">Orders</span></Link>
                 </div>
                 <Link to="/checkout">
                     <div className="header__optionBasket">
