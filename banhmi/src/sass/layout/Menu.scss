@@ -1,9 +1,9 @@
 .menu {
-    position: sticky;
-    top: 45px;
     z-index: 1;
     background: white;
     width: 80vw;
+    position: sticky !important;
+    top: 45px;
     .rc-tabs {
         border: none;
         .rc-tabs-nav-wrap {

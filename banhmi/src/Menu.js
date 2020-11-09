@@ -1,23 +1,21 @@
 import React, { useState } from 'react';
 import Tabs, { TabPane } from 'rc-tabs';
 import "rc-tabs/assets/index.css";
+import Product from './Product'
 
 const Menu = () => {
     return (
         <div className="menu">
             <Tabs >
-                <TabPane tab="Speciality" key="1">
-                    Specialties
+                <TabPane tab="Sandwiches" key="1">
                 </TabPane>
-                <TabPane tab="Sandwiches" key="2">
+                <TabPane tab="Appetizers" key="2">
                     Sandwiches
                 </TabPane>
-                <TabPane tab="Combos" key="3">
-                    Combos
-                </TabPane>
-                <TabPane tab="Drinks" key="4">
+                <TabPane tab="Drinks" key="3">
                     Drinks
                 </TabPane>
+
             </Tabs>
         </div>
     );

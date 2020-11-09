@@ -57,7 +57,7 @@ const Nav = () => {
             <div className={`navDrawer ${open ? '' : 'hide'}`}>
                 <ul>
                     <li>
-                        <HomeIcon />
+                        <FastfoodIcon />
                         <Link to="/"><p>Home</p></Link>
                     </li>
                     <li>

@@ -21,7 +21,8 @@ const Order = () => {
                 <div className="order__row">
                     <Product
                         id="8781"
-                        title="Breaking Bad Sandwich"
+                        itemNumber="1"
+                        title="Breaking Bread Sandwich"
                         description="fsfsd  fdfs  sfds fds fs f s fsd f sdfsdfsds fs"
                         image="https://grannys.ca/wp-content//uploads/2017/09/BahnMiSandwich.jpg"
                         price={6.55}
@@ -29,12 +30,14 @@ const Order = () => {
                     <Product
                         id="277887"
                         title="Pork Sandwich"
+                        itemNumber="2"
                         description="fsfsd  fdfs  sfds fds fs f s fsd f sdfsdfsds fs"
                         image="https://grannys.ca/wp-content//uploads/2017/09/BahnMiSandwich.jpg"
                         price={6.00}
                     />
                     <Product
                         id="38099"
+                        itemNumber="3"
                         title="Spicy Pork Sandwich"
                         description="fsfsd  fdfs  sfds fds fs f s fsd f sdfsdfsds fs"
                         image="https://grannys.ca/wp-content//uploads/2017/09/BahnMiSandwich.jpg"
@@ -42,6 +45,7 @@ const Order = () => {
                     />
                     <Product
                         id="478"
+                        itemNumber="4"
                         title="Beef Sandwich"
                         description="fsfsd  fdfs  sfds fds fs f s fsd f sdfsdfsds fs"
                         image="https://grannys.ca/wp-content//uploads/2017/09/BahnMiSandwich.jpg"
@@ -49,6 +53,7 @@ const Order = () => {
                     />
                     <Product
                         id="5980"
+                        itemNumber="5"
                         title="Terriyaki Chicken Sandwich"
                         description="fsfsd  fdfs  sfds fds fs f s fsd f sdfsdfsds fs"
                         image="https://grannys.ca/wp-content//uploads/2017/09/BahnMiSandwich.jpg"
@@ -56,6 +61,7 @@ const Order = () => {
                     />
                     <Product
                         id="8767"
+                        itemNumber="6"
                         title="Bangin Special Sandwich"
                         description="fsfsd  fdfs  sfds fds fs f s fsd f sdfsdfsds fs"
                         image="https://grannys.ca/wp-content//uploads/2017/09/BahnMiSandwich.jpg"
