@@ -4,6 +4,30 @@
     flex-wrap: wrap;
     margin: 24px;
     padding: 16px;
+    position: relative;
+    .added {
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        height: 100%;
+        width: 100%;
+        transition: .5s ease;
+        background-color: #fff;
+        span {
+            margin: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100%;
+            color: red;
+            svg {
+                width: 40px;
+                height: 40px;
+            }
+        }
+    }
     .product__info {
         h4 {
             font-family: $mainFont;
@@ -32,7 +56,7 @@
 
 .product:hover {
     cursor: pointer;
-    border: 1px solid rgba(0, 0, 0, 0.3);
+    border: 1px solid rgba(0, 0, 0, 0.4);
 }
 
 .product>img {

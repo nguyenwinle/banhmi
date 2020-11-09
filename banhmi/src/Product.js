@@ -1,11 +1,14 @@
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 import { useStateValue } from './StateProvider'
+import CheckCircleIcon from '@material-ui/icons/CheckCircle';
 
 const Product = ({ id, title, description, image, price, itemNumber }) => {
     const [state, dispatch] = useStateValue();
+    const [overlay, setOverlay] = useState(false)
 
     const addToBasket = () => {
         // dispatch the action.item to the data layer
+
         dispatch({
             type: 'ADD_TO_BASKET',
             item: {
@@ -17,7 +20,16 @@ const Product = ({ id, title, description, image, price, itemNumber }) => {
                 price: price
             }
         })
+
+        setOverlay(true)
+
     }
+
+    useEffect(() => {
+        const timeout = setTimeout(() => {
+            setOverlay(false);
+        }, 500);
+    }, [overlay])
 
     return (
         <div onClick={addToBasket} className="product">
@@ -31,6 +43,7 @@ const Product = ({ id, title, description, image, price, itemNumber }) => {
                 <p>{description}</p>
             </div>
             <img src={image} alt="title" />
+            {overlay && <div className="added"><span><CheckCircleIcon /></span></div>}
         </div>
     );
 };
