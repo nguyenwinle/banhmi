@@ -15,13 +15,15 @@ import SettingsIcon from '@material-ui/icons/Settings';
 import HomeIcon from '@material-ui/icons/Home';
 import SubNav from './SubNav'
 
-const Header = () => {
+const Nav = () => {
     const [{ basket, user }, dispatch] = useStateValue();
+
     const [open, setOpen] = useState(false);
 
     const toggleMenu = () => {
         setOpen(!open)
     }
+
     const history = useHistory();
     const handleAuthentication = () => {
         if (user) {
@@ -33,39 +35,25 @@ const Header = () => {
 
     return (
         <>
-            <div className="header">
-                <div className="header__nav icons"><span onClick={toggleMenu}>{open ? <MenuOpenIcon /> : <MenuIcon />}</span><FacebookIcon /><InstagramIcon /><FastfoodIcon /></div>
-                <div className="header__nav center">
+            <div className="nav">
+                <div className="nav__nav icons">{user && <span onClick={toggleMenu}>{open ? <MenuOpenIcon /> : <MenuIcon />}</span>}<FacebookIcon /><InstagramIcon /><FastfoodIcon /></div>
+                <div className="nav__nav center">
                     <Link to="/">
-                        <img className="header__logo" src={Logo} />
+                        <img className="nav__logo" src={Logo} />
                         Breaking Bread</Link>
-                    {/* <div className="header__search">
-                <input className="header__searchInput" type="text" />
-                <div className="header__searchIcon">
-                    <SearchIcon />
                 </div>
-            </div> */}
-                </div>
-                <div className="header__nav right">
-                    {/* <div onClick={handleAuthentication} className="header__option">
-                    <Link to={!user && "/login"}> <span className="header__optionLine">{user ? 'Sign Out' : 'Sign In'}</span> </Link>
-                </div>
-                <div className="header__option">
-                    <Link to={!user && "/signup"}> <span className="header__optionLine">{user ? '' : 'Create an Account'}</span> </Link>
-                </div>
-                <div className="header__option">
-                    <Link to="/orders"><span className="header__optionLine">Your Orders</span></Link>
-                </div> */}
-                    <Link to="/checkout">
-                        <div className="header__optionBasket">
-                            <ShoppingCartIcon />
-                            <span className="header__optionLine__count">
-                                {basket ?.length}
-                            </span>
+                <div className="nav__nav right">
+
+                    <Link to="/order">
+                        <div className="nav__optionBasket">
+                            <span className="nav__optionLine__count">
+                                Order Now
+                        </span>
                         </div>
                     </Link>
                 </div>
             </div>
+            <SubNav />
             <div className={`navDrawer ${open ? '' : 'hide'}`}>
                 <ul>
                     <li>
@@ -97,4 +85,4 @@ const Header = () => {
     );
 };
 
-export default Header;
+export default Nav;

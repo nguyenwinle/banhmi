@@ -16,78 +16,7 @@ const Home = () => {
     return (
         <div className="home">
             <Hero />
-            <Menu />
-            <div className="home__container">
-                <div className="home__row">
-                    <Product
-                        id="8781"
-                        title="Breaking Bad Sandwich"
-                        description="fsfsd  fdfs  sfds fds fs f s fsd f sdfsdfsds fs"
-                        image="https://grannys.ca/wp-content//uploads/2017/09/BahnMiSandwich.jpg"
-                        price={6.55}
-                    />
-                    <Product
-                        id="277887"
-                        title="Pork Sandwich"
-                        description="fsfsd  fdfs  sfds fds fs f s fsd f sdfsdfsds fs"
-                        image="https://grannys.ca/wp-content//uploads/2017/09/BahnMiSandwich.jpg"
-                        price={6.00}
-                    />
-                    <Product
-                        id="38099"
-                        title="Spicy Pork Sandwich"
-                        description="fsfsd  fdfs  sfds fds fs f s fsd f sdfsdfsds fs"
-                        image="https://grannys.ca/wp-content//uploads/2017/09/BahnMiSandwich.jpg"
-                        price={6.00}
-                    />
-                    <Product
-                        id="478"
-                        title="Beef Sandwich"
-                        description="fsfsd  fdfs  sfds fds fs f s fsd f sdfsdfsds fs"
-                        image="https://grannys.ca/wp-content//uploads/2017/09/BahnMiSandwich.jpg"
-                        price={6.00}
-                    />
-                    <Product
-                        id="5980"
-                        title="Terriyaki Chicken Sandwich"
-                        description="fsfsd  fdfs  sfds fds fs f s fsd f sdfsdfsds fs"
-                        image="https://grannys.ca/wp-content//uploads/2017/09/BahnMiSandwich.jpg"
-                        price={6.00}
-                    />
-                    <Product
-                        id="8767"
-                        title="Bangin Special Sandwich"
-                        description="fsfsd  fdfs  sfds fds fs f s fsd f sdfsdfsds fs"
-                        image="https://grannys.ca/wp-content//uploads/2017/09/BahnMiSandwich.jpg"
-                        price={7.00}
-                    />
-                </div>
-            </div>
-            <div className="home__checkout">
-                {basket.length === 0 && <p>Your basket is empty. Add items to get started.</p>}
-                {
-                    basket.map(item => (
-                        <CheckoutProduct
-                            id={item.id}
-                            title={item.title}
-                            description={item.description}
-                            image={item.image}
-                            price={item.price}
-                        />
-                    ))
-                }
-                <CurrencyFormat
-                    //optional chaining
-                    renderText={(value) => (<p>Subtotal ({basket ?.length} {basket ?.length > 1 ? 'items' : 'item'}): <strong>{value}</strong></p>)}
-                    decimalScale={2}
-                    value={getBasketTotal(basket)}
-                    displayType={"text"}
-                    thousandSeparator={true}
-                    prefix={"$"}
-                >
-                </CurrencyFormat>
-                <button onClick={e => { basket.length > 0 ? history.push("/checkout") : e.preventDefault() }}>{basket.length > 0 ? 'Review Items' : 'Basket is Empty'}</button>
-            </div>
+
         </div>
     );
 };

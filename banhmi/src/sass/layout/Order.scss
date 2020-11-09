@@ -1,5 +1,5 @@
-.home {
-    .home__image {
+.order {
+    .order__image {
         position: relative;
         top: -100px;
         width: 100%;
@@ -7,12 +7,13 @@
         mask-image: linear-gradient(to bottom, rgba(0, 0, 0, 1), rgba(0, 0, 0, 0));
         margin-bottom: -200px;
     }
-    .home__row {
+    .order__row {
         z-index: 1;
+        width: 77vw;
         display: flex;
         flex-wrap: wrap;
     }
-    .home__checkout {
+    .order__checkout {
         // position: fixed;
         position: fixed;
         height: 100vh;
