@@ -29,8 +29,9 @@ const Nav = () => {
         if (user) {
             auth.signOut();
 
-            history.push('/login')
+            history.push('/')
         }
+        setOpen(!open);
     }
 
     return (

@@ -10,7 +10,7 @@ const SubNav = () => {
         if (user) {
             auth.signOut();
 
-            history.push('/login')
+            history.push('/')
         }
     }
     return (
