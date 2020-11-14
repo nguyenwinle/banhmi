@@ -70,6 +70,26 @@ const Order = () => {
                 </div>
             </div>
             <div className="order__checkout">
+                {
+                    getBasketTotal(basket) > 0 ? (
+                        <>
+                            <p className="order">Your Order</p>
+                            <button className="checkout__basket" onClick={e => history.push("/checkout")}>
+                                <p>Checkout</p>
+                                <CurrencyFormat
+                                    //optional chaining
+                                    renderText={(value) => (<p>{value}</p>)}
+                                    decimalScale={2}
+                                    value={getBasketTotal(basket)}
+                                    displayType={"text"}
+                                    thousandSeparator={true}
+                                    prefix={"$"}
+                                >
+                                </CurrencyFormat>
+                            </button>
+                        </>
+                    ) : ''
+                }
                 {basket.length === 0 && <p>Your basket is empty. Add items to get started.</p>}
                 {
                     basket.map(item => (
@@ -82,7 +102,7 @@ const Order = () => {
                         />
                     ))
                 }
-                <CurrencyFormat
+                {/* <CurrencyFormat
                     //optional chaining
                     renderText={(value) => (<p>Subtotal ({basket ?.length} {basket ?.length > 1 ? 'items' : 'item'}): <strong>{value}</strong></p>)}
                     decimalScale={2}
@@ -91,8 +111,7 @@ const Order = () => {
                     thousandSeparator={true}
                     prefix={"$"}
                 >
-                </CurrencyFormat>
-                <button onClick={e => { basket.length > 0 ? history.push("/checkout") : e.preventDefault() }}>{basket.length > 0 ? 'Review Items' : 'Basket is Empty'}</button>
+                </CurrencyFormat> */}
             </div>
         </div>
     );
