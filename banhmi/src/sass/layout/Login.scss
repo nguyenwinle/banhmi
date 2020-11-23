@@ -16,6 +16,7 @@
         filter: drop-shadow(5px 5px 5px rgb(59, 59, 59));
         transform: skewY(-6deg);
         object-fit: contain;
+        margin-bottom: 24px;
     }
     .login__container {
         form {
@@ -35,11 +36,13 @@
                 border: none;
                 background: transparent;
                 border-radius: 5px;
-                padding: 8px;
-                background: rgba(0, 0, 0, 0.2);
+                padding: 10px 10px 7px;
+                background: rgba(0, 0, 0, 0.8);
                 font-size: 16px;
                 color: #fff;
-                box-shadow: 0 20px 50px -14px rgba(0, 0, 0, 0.75);
+                box-shadow: 0 20px 50px -14px rgba(0, 0, 0, 0.4);
+                font-family: 'arial';
+                font-size: 18px;
             }
             ::placeholder {
                 color: #fff;
@@ -50,14 +53,27 @@
         }
         button {
             width: 100%;
-            background: #222;
+            background: red;
             color: #fff;
             outline: none;
             border: none;
             border-radius: 5px;
-            font-size: 18px;
-            padding: 8px 8px;
-            box-shadow: 0 20px 50px -14px rgba(0, 0, 0, 0.75);
+            font-size: 20px;
+            letter-spacing: 0.2em;
+            padding: 10px 8px 7px; // box-shadow: 0 20px 50px -14px rgba(0, 0, 0, 0.75);
+            font-family: $mainFont;
         }
+        button:hover {
+            cursor: pointer;
+            background: rgb(231, 0, 0);
+        }
+    }
+    a {
+        text-decoration: none;
+        font-family: $mainFont;
+        font-size: 20px;
+        color: #222;
+        letter-spacing: 0.2em;
+        margin-top: 16px;
     }
 }

@@ -1,0 +1,2960 @@
+[{
+    "url": "/api/v1/events/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2hhcnJhaHMvbGFzL2VuL3Njb3VudHJ5",
+    "webUrl": "https://www.caesars.com/harrahs-las-vegas/shows/x-country",
+    "ticketsUrl": "http://www.ticketmaster.com/X-Country-tickets/artist/2171077?tm_link=edp_Artist_Name&camefrom=CFC_CAESARSENT_LAS_XCountry",
+    "prices": "Standard: $47.94 & VIP: $62.95 (Plus Tax & Fees)",
+    "ibeBookable": true,
+    "address": {
+        "street": "3475 Las Vegas Boulevard South",
+        "city": "Las Vegas",
+        "state": "NV",
+        "zip": "89109"
+    },
+    "category": {
+        "id": "adult",
+        "name": "Adult"
+    },
+    "images": [{
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2hhcnJhaHMvbGFzL2VuL3Njb3VudHJ5L19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczE"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2hhcnJhaHMvbGFzL2VuL3Njb3VudHJ5L19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczI"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2hhcnJhaHMvbGFzL2VuL3Njb3VudHJ5L19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczM"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2hhcnJhaHMvbGFzL2VuL3Njb3VudHJ5L19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczQ"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2hhcnJhaHMvbGFzL2VuL3Njb3VudHJ5L19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczU"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2hhcnJhaHMvbGFzL2VuL3Njb3VudHJ5L19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczY"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2hhcnJhaHMvbGFzL2VuL3Njb3VudHJ5L19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczc"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2hhcnJhaHMvbGFzL2VuL3Njb3VudHJ5L19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczg"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2hhcnJhaHMvbGFzL2VuL3Njb3VudHJ5L19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczk"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2hhcnJhaHMvbGFzL2VuL3Njb3VudHJ5L19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczEw"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2hhcnJhaHMvbGFzL2VuL3Njb3VudHJ5L19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczEx"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2hhcnJhaHMvbGFzL2VuL3Njb3VudHJ5L19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczEy"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2hhcnJhaHMvbGFzL2VuL3Njb3VudHJ5L19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczEz"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2hhcnJhaHMvbGFzL2VuL3Njb3VudHJ5L19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczE0"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2hhcnJhaHMvbGFzL2VuL3Njb3VudHJ5L19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczE1"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2hhcnJhaHMvbGFzL2VuL3Njb3VudHJ5L19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczE2"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2hhcnJhaHMvbGFzL2VuL3Njb3VudHJ5L19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczE3"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2hhcnJhaHMvbGFzL2VuL3Njb3VudHJ5L19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczE4"
+    }],
+    "preferenceId": "29652",
+    "price": "47.94",
+    "venue": {
+        "name": "Harrah’s Cabaret"
+    },
+    "dates": [{
+        "start": "2020-11-23",
+        "end": "2020-12-28",
+        "blackouts": ["2020-10-25", "2020-10-31", "2020-11-01", "2020-11-26", "2020-12-24", "2020-12-25"],
+        "times": ["10:00 PM"],
+        "days": [6, 5, 0, 4]
+    }, {
+        "start": "2020-11-26",
+        "end": "2020-12-27",
+        "blackouts": ["2020-12-25"],
+        "times": ["7:00 PM"],
+        "days": [6, 5]
+    }, {
+        "start": "2020-12-31",
+        "end": "2021-02-28",
+        "times": ["7:00 PM"],
+        "days": [6, 5]
+    }, {
+        "start": "2020-12-31",
+        "end": "2021-03-01",
+        "blackouts": ["2020-12-31"],
+        "times": ["10:00 PM"],
+        "days": [6, 5, 0, 4]
+    }],
+    "attractionId": "K8vZ917KB60",
+    "venueId": "KovZpZAEdlnA",
+    "name": "X Country",
+    "propertyName": "Harrah's Las Vegas",
+    "property": "las",
+    "market": "lvm",
+    "propertyRank": 2,
+    "marketRank": 3,
+    "featuredImage": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2hhcnJhaHMvbGFzL2VuL3Njb3VudHJ5L19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ZlYXR1cmVkSW1hZ2U"
+    },
+    "summary": "From the producers of X Burlesque and X Rocks comes their latest hit, X Country, \"A Kick'n Topless Revue,\" featuring beautiful dancers teasing and seducing to a combination of traditional and contemporary country chart toppers.",
+    "location": {
+        "latitude": 36.120005,
+        "longitude": -115.170638,
+        "minLatitude": 36.118888,
+        "maxLatitude": 36.120175,
+        "minLongitude": -115.168701,
+        "maxLongitude": -115.172301
+    },
+    "thumbnail": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2hhcnJhaHMvbGFzL2VuL3Njb3VudHJ5L19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdl"
+    }
+}, {
+    "url": "/api/v1/events/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2hhcnJhaHMvbGFzL2VuL21vcmUtbGFzLXZlZ2FzLXNob3dz",
+    "ibeBookable": false,
+    "address": {
+        "street": "3475 Las Vegas Boulevard South",
+        "city": "Las Vegas",
+        "state": "NV",
+        "zip": "89109"
+    },
+    "category": {
+        "id": "show",
+        "name": "Show"
+    },
+    "preferenceId": "32962",
+    "dates": [],
+    "name": "More Las Vegas Shows",
+    "propertyName": "Harrah's Las Vegas",
+    "property": "las",
+    "market": "lvm",
+    "propertyRank": 100,
+    "marketRank": 1000,
+    "summary": "Caesars Entertainment’s Las Vegas resorts keep audiences entertained with everything from music to magic and the biggest headliners like Gwen Stefani, Christina Aguilera, Sting, Mariah Carey and more. Check out our Las Vegas entertainment calendar.",
+    "location": {
+        "latitude": 36.118386,
+        "longitude": -115.170382,
+        "minLatitude": 36.118888,
+        "maxLatitude": 36.120175,
+        "minLongitude": -115.168701,
+        "maxLongitude": -115.172301
+    },
+    "thumbnail": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2hhcnJhaHMvbGFzL2VuL21vcmUtbGFzLXZlZ2FzLXNob3dzL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdl"
+    }
+}, {
+    "url": "/api/v1/events/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2hhcnJhaHMvbGFzL2VuL21lbm9wYXVzZS10aGUtbXVzaWNhbA",
+    "webUrl": "https://www.caesars.com/harrahs-las-vegas/shows/menopause-the-musical",
+    "seatingChart": "/content/dam/las/Shows/Seatmap/harrahs-cabaret/Harrahs-Cabaret-Menopause.png",
+    "prices": "Starting at $50.15 (plus taxes and fees)",
+    "ibeBookable": false,
+    "address": {
+        "street": "3475 Las Vegas Boulevard South",
+        "city": "Las Vegas",
+        "state": "NV",
+        "zip": "89109"
+    },
+    "category": {
+        "id": "musical",
+        "name": "Musical"
+    },
+    "preferenceId": "12924",
+    "price": "50.15",
+    "venue": {
+        "name": "Harrah’s Cabaret"
+    },
+    "dates": [],
+    "attractionId": "K8vZ9175_R7",
+    "venueId": "KovZpZAEdlnA",
+    "name": "Menopause The Musical ",
+    "propertyName": "Harrah's Las Vegas",
+    "property": "las",
+    "market": "lvm",
+    "propertyRank": 4,
+    "marketRank": 24,
+    "featuredImage": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2hhcnJhaHMvbGFzL2VuL21lbm9wYXVzZS10aGUtbXVzaWNhbC9famNyX2NvbnRlbnQvY2FyZHMvY2FyZC9mZWF0dXJlZEltYWdl"
+    },
+    "summary": "Menopause The Musical® at Harrah's Las Vegas! The Hilarious Celebration of Women and The Change!® performs nightly at Harrah’s Cabaret.",
+    "location": {
+        "latitude": 36.120005,
+        "longitude": -115.170638,
+        "minLatitude": 36.118888,
+        "maxLatitude": 36.120175,
+        "minLongitude": -115.168701,
+        "maxLongitude": -115.172301
+    },
+    "thumbnail": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2hhcnJhaHMvbGFzL2VuL21lbm9wYXVzZS10aGUtbXVzaWNhbC9famNyX2NvbnRlbnQvY2FyZHMvY2FyZC9pbWFnZQ"
+    }
+}, {
+    "url": "/api/v1/events/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2hhcnJhaHMvbGFzL2VuL1RoZVJpZ2h0ZW91c0Jyb3RoZXJz",
+    "webUrl": "https://www.caesars.com/harrahs-las-vegas/shows/righteous-brothers",
+    "seatingChart": "/content/dam/las/Shows/Seatmap/harrahs-showroom/Righteous-Brothers-Harrahs-Showroom.png",
+    "prices": "Starting from $49 (plus taxes and fees)",
+    "ibeBookable": true,
+    "address": {
+        "street": "3475 Las Vegas Boulevard South",
+        "city": "Las Vegas",
+        "state": "NV",
+        "zip": "89109"
+    },
+    "category": {
+        "id": "headliner",
+        "name": "Headliner"
+    },
+    "preferenceId": "29993",
+    "price": "49",
+    "venue": {
+        "name": "Harrah’s Showroom"
+    },
+    "dates": [],
+    "attractionId": "K8vZ9171Gs0",
+    "venueId": "KovZpZAJaJ1A",
+    "name": "The Righteous Brothers: Bill Medley & Bucky Heard",
+    "propertyName": "Harrah's Las Vegas",
+    "property": "las",
+    "market": "lvm",
+    "propertyRank": 3,
+    "marketRank": 30,
+    "featuredImage": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2hhcnJhaHMvbGFzL2VuL1RoZVJpZ2h0ZW91c0Jyb3RoZXJzL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ZlYXR1cmVkSW1hZ2U"
+    },
+    "summary": "Blue-eyed soul pioneers The Righteous Brothers are live and in concert with a string of their biggest No. 1 hits, only at Harrah’s Las Vegas.",
+    "location": {
+        "latitude": 36.120005,
+        "longitude": -115.170638,
+        "minLatitude": 36.118888,
+        "maxLatitude": 36.120175,
+        "minLongitude": -115.168701,
+        "maxLongitude": -115.172301
+    },
+    "thumbnail": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2hhcnJhaHMvbGFzL2VuL1RoZVJpZ2h0ZW91c0Jyb3RoZXJzL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdl"
+    }
+}, {
+    "url": "/api/v1/events/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2hhcnJhaHMvbGFzL2VuL2Rvbm55LW9zbW9uZA",
+    "webUrl": "https://www.caesars.com/harrahs-las-vegas/shows/donny-osmond",
+    "ticketsUrl": "https://www.ticketmaster.com/artist/2767135?venueId=467856&camefrom=CFC_CAESARSENT_LAS_DonnyOsmond",
+    "prices": "Starting at $65 (Plus Tax & Fees)",
+    "ibeBookable": false,
+    "address": {
+        "street": "3475 Las Vegas Boulevard South",
+        "city": "Las Vegas",
+        "state": "NV",
+        "zip": "89109"
+    },
+    "category": {
+        "id": "headliner",
+        "name": "Headliner"
+    },
+    "price": "65",
+    "venue": {
+        "name": "Harrah's Showroom"
+    },
+    "dates": [{
+        "start": "2021-08-30",
+        "end": "2021-09-19",
+        "times": ["8:00 PM"],
+        "days": [6, 5, 2, 3, 4]
+    }, {
+        "start": "2021-09-27",
+        "end": "2021-10-17",
+        "times": ["8:00 PM"],
+        "days": [6, 5, 2, 3, 4]
+    }, {
+        "start": "2021-11-01",
+        "end": "2021-11-21",
+        "times": ["8:00 PM"],
+        "days": [6, 5, 2, 3, 4]
+    }],
+    "attractionId": "K8vZ917_dm0",
+    "venueId": "KovZpZAJaJ1A",
+    "name": "Donny Osmond",
+    "propertyName": "Harrah's Las Vegas",
+    "property": "las",
+    "market": "lvm",
+    "propertyRank": 2,
+    "marketRank": 12,
+    "featuredImage": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2hhcnJhaHMvbGFzL2VuL2Rvbm55LW9zbW9uZC9famNyX2NvbnRlbnQvY2FyZHMvY2FyZC9mZWF0dXJlZEltYWdl"
+    },
+    "summary": "Legendary entertainer and music icon, Donny Osmond, announces his return to Las Vegas with his first-ever solo residency inside Harrah’s Showroom, opening August 2021.",
+    "location": {
+        "latitude": 36.120005,
+        "longitude": -115.170638,
+        "minLatitude": 36.118888,
+        "maxLatitude": 36.120175,
+        "minLongitude": -115.168701,
+        "maxLongitude": -115.172301
+    },
+    "thumbnail": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2hhcnJhaHMvbGFzL2VuL2Rvbm55LW9zbW9uZC9famNyX2NvbnRlbnQvY2FyZHMvY2FyZC9pbWFnZQ"
+    },
+    "youtubeVideos": ["https://www.youtube.com/embed/LIA2HlEfT1I"]
+}, {
+    "url": "/api/v1/events/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2hhcnJhaHMvbGFzL2VuL3RoZS1icm9ueC13YW5kZXJlcnM",
+    "webUrl": "https://www.caesars.com/harrahs-las-vegas/shows/the-bronx-wanderers",
+    "prices": "VIP: $109.99, Premium: $89.98, Reserved: $79.99, Standard: $59.98",
+    "ibeBookable": false,
+    "address": {
+        "street": "3475 Las Vegas Boulevard South",
+        "city": "Las Vegas",
+        "state": "NV",
+        "zip": "89109"
+    },
+    "category": {
+        "id": "concert",
+        "name": "Concert"
+    },
+    "price": "109.99",
+    "venue": {
+        "name": "Harrah's Showroom"
+    },
+    "dates": [],
+    "attractionId": "K8vZ917C3uf",
+    "venueId": "KovZpZAJaJ1A",
+    "name": "The Bronx Wanderers",
+    "propertyName": "Harrah's Las Vegas",
+    "property": "las",
+    "market": "lvm",
+    "propertyRank": 6,
+    "marketRank": 30,
+    "featuredImage": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2hhcnJhaHMvbGFzL2VuL3RoZS1icm9ueC13YW5kZXJlcnMvX2pjcl9jb250ZW50L2NhcmRzL2NhcmQvZmVhdHVyZWRJbWFnZQ"
+    },
+    "summary": "A story about a family that delivers a passionate heart-pumping mix of rock 'n’ roll’s great American Songbook from the first generation right through today’s current hit-makers.",
+    "location": {
+        "latitude": 36.118386,
+        "longitude": -115.170382,
+        "minLatitude": 36.118888,
+        "maxLatitude": 36.120175,
+        "minLongitude": -115.168701,
+        "maxLongitude": -115.172301
+    },
+    "thumbnail": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2hhcnJhaHMvbGFzL2VuL3RoZS1icm9ueC13YW5kZXJlcnMvX2pjcl9jb250ZW50L2NhcmRzL2NhcmQvaW1hZ2U"
+    }
+}, {
+    "url": "/api/v1/events/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2hhcnJhaHMvbGFzL2VuL3RoZS1waWFuby1iYXI",
+    "webUrl": "https://www.caesars.com/harrahs-las-vegas/things-to-do/the-piano-bar",
+    "ibeBookable": false,
+    "address": {
+        "street": "3475 Las Vegas Boulevard South",
+        "city": "Las Vegas",
+        "state": "NV",
+        "zip": "89109"
+    },
+    "category": {
+        "id": "lounge",
+        "name": "Lounge"
+    },
+    "preferenceId": "30616",
+    "dates": [],
+    "name": "The Piano Bar",
+    "propertyName": "Harrah's Las Vegas",
+    "property": "las",
+    "market": "lvm",
+    "propertyRank": 11,
+    "marketRank": 30,
+    "summary": "Enjoy FREE entertainment 7 days a week, including acts by Big Elvis, a Dueling Piano set featuring identical twins Kim & Tamara Pinegar, The Saxman Duo and Rusty's All-Star Karaoke.",
+    "location": {
+        "latitude": 36.1193,
+        "longitude": -115.1705,
+        "minLatitude": 36.118888,
+        "maxLatitude": 36.120175,
+        "minLongitude": -115.168701,
+        "maxLongitude": -115.172301
+    },
+    "thumbnail": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2hhcnJhaHMvbGFzL2VuL3RoZS1waWFuby1iYXIvX2pjcl9jb250ZW50L2NhcmRzL2NhcmQvaW1hZ2U"
+    }
+}, {
+    "url": "/api/v1/events/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2hhcnJhaHMvbGFzL2VuL2pvaG4tY2FwYXJ1bG9zLW1hZC1jYXAtY29tZWR5",
+    "webUrl": "https://www.caesars.com/harrahs-las-vegas/shows/john-caparulos-mad-cap-comedy",
+    "prices": "General Admission: $59, VIP: $99 (plus taxes and fees) ",
+    "ibeBookable": false,
+    "address": {
+        "street": "3475 Las Vegas Boulevard South",
+        "city": "Las Vegas",
+        "state": "NV",
+        "zip": "89109"
+    },
+    "category": {
+        "id": "comedy",
+        "name": "Comedy"
+    },
+    "images": [{
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2hhcnJhaHMvbGFzL2VuL2pvaG4tY2FwYXJ1bG9zLW1hZC1jYXAtY29tZWR5L19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczE"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2hhcnJhaHMvbGFzL2VuL2pvaG4tY2FwYXJ1bG9zLW1hZC1jYXAtY29tZWR5L19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczEx"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2hhcnJhaHMvbGFzL2VuL2pvaG4tY2FwYXJ1bG9zLW1hZC1jYXAtY29tZWR5L19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczI"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2hhcnJhaHMvbGFzL2VuL2pvaG4tY2FwYXJ1bG9zLW1hZC1jYXAtY29tZWR5L19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczM"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2hhcnJhaHMvbGFzL2VuL2pvaG4tY2FwYXJ1bG9zLW1hZC1jYXAtY29tZWR5L19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczQ"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2hhcnJhaHMvbGFzL2VuL2pvaG4tY2FwYXJ1bG9zLW1hZC1jYXAtY29tZWR5L19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczU"
+    }],
+    "preferenceId": "32301",
+    "price": "59,",
+    "venue": {
+        "name": "House of Tape"
+    },
+    "dates": [],
+    "attractionId": "K8vZ917pyZf",
+    "venueId": "KovZ917AQUZ",
+    "name": "John Caparulo's Mad Cap Comedy",
+    "propertyName": "Harrah's Las Vegas",
+    "property": "las",
+    "market": "lvm",
+    "propertyRank": 7,
+    "marketRank": 30,
+    "featuredImage": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2hhcnJhaHMvbGFzL2VuL2pvaG4tY2FwYXJ1bG9zLW1hZC1jYXAtY29tZWR5L19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ZlYXR1cmVkSW1hZ2U"
+    },
+    "summary": "John Caparulo brings a new level of laughter to the stage in Mad Cap Comedy at Harrah's Las Vegas! Performing nightly!",
+    "location": {
+        "latitude": 36.120005,
+        "longitude": -115.170638,
+        "minLatitude": 36.118888,
+        "maxLatitude": 36.120175,
+        "minLongitude": -115.168701,
+        "maxLongitude": -115.172301
+    },
+    "thumbnail": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2hhcnJhaHMvbGFzL2VuL2pvaG4tY2FwYXJ1bG9zLW1hZC1jYXAtY29tZWR5L19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdl"
+    }
+}, {
+    "url": "/api/v1/events/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2hhcnJhaHMvbGFzL2VuL21hY19raW5nX2NvbWVkeV9zaG93",
+    "webUrl": "https://caesars.com/harrahs-las-vegas/shows/mac-king-comedy-magic-show",
+    "seatingChart": "/content/dam/las/Shows/Mac%20King/seatmap/DGTL1203_ENT_seatmap_LAS_MacKing.jpg",
+    "prices": "Starting from $34.95 (Plus Tax & Fees)",
+    "ibeBookable": true,
+    "address": {
+        "street": "3475 Las Vegas Boulevard South",
+        "city": "Las Vegas",
+        "state": "NV",
+        "zip": "89109"
+    },
+    "category": {
+        "id": "magic",
+        "name": "Magic"
+    },
+    "preferenceId": "12317",
+    "price": "34.95",
+    "venue": {
+        "name": "Harrah's Showroom at Harrah's Las Vegas"
+    },
+    "dates": [],
+    "attractionId": "K8vZ917uzdV",
+    "venueId": "KovZpZAJaJ1A",
+    "name": "Mac King Comedy Show",
+    "propertyName": "Harrah's Las Vegas",
+    "property": "las",
+    "market": "lvm",
+    "propertyRank": 5,
+    "marketRank": 25,
+    "featuredImage": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2hhcnJhaHMvbGFzL2VuL21hY19raW5nX2NvbWVkeV9zaG93L19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ZlYXR1cmVkSW1hZ2U"
+    },
+    "summary": "Mac King's unique afternoon show contains an unusual combination of quirky humor, visual gags and astounding sleight of hand. He’s best known for his engaging personality and original magic creations, such as making a live goldfish appear over someone’s head (or even out of his mouth!).",
+    "location": {
+        "latitude": 36.119683,
+        "longitude": -115.172028,
+        "minLatitude": 36.118888,
+        "maxLatitude": 36.120175,
+        "minLongitude": -115.168701,
+        "maxLongitude": -115.172301
+    },
+    "thumbnail": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2hhcnJhaHMvbGFzL2VuL21hY19raW5nX2NvbWVkeV9zaG93L19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdl"
+    }
+}, {
+    "url": "/api/v1/events/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2hhcnJhaHMvbGFzL2VuL3RhcGUtZmFjZQ",
+    "webUrl": "https://www.caesars.com/harrahs-las-vegas/shows/tape-face",
+    "ticketsUrl": "https://www.ticketmaster.com/tape-face-tickets/artist/2285170?camefrom=CFC_CAESARSENT_LAS_TapeFace",
+    "prices": "GA: $69; VIP: $102 (Plus Tax & Fees)",
+    "ibeBookable": true,
+    "address": {
+        "street": "3475 Las Vegas Boulevard South",
+        "city": "Las Vegas",
+        "state": "NV",
+        "zip": "89109"
+    },
+    "category": {
+        "id": "comedy",
+        "name": "Comedy"
+    },
+    "preferenceId": "32110",
+    "price": "69",
+    "venue": {
+        "name": "Harrah's Showroom"
+    },
+    "dates": [{
+        "start": "2020-11-23",
+        "end": "2020-12-29",
+        "times": ["7:30 PM"],
+        "days": [6, 5, 0, 3, 4]
+    }, {
+        "start": "2020-12-28",
+        "end": "2021-01-01",
+        "times": ["7:30 PM"],
+        "days": [2, 3, 4]
+    }, {
+        "start": "2020-12-31",
+        "end": "2021-03-01",
+        "blackouts": ["2020-12-31", "2021-02-07"],
+        "times": ["7:30 PM"],
+        "days": [6, 5, 2, 0, 3, 4]
+    }, {
+        "start": "2021-01-16",
+        "end": "2021-01-18",
+        "times": ["4:00 PM"],
+        "days": [0]
+    }, {
+        "start": "2021-02-13",
+        "end": "2021-02-15",
+        "times": ["4:00 PM"],
+        "days": [0]
+    }],
+    "attractionId": "K8vZ9174jK0",
+    "venueId": "KovZpZAEdlnA",
+    "name": "Tape Face",
+    "propertyName": "Harrah's Las Vegas",
+    "property": "las",
+    "market": "lvm",
+    "propertyRank": 1,
+    "marketRank": 4,
+    "featuredImage": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2hhcnJhaHMvbGFzL2VuL3RhcGUtZmFjZS9famNyX2NvbnRlbnQvY2FyZHMvY2FyZC9mZWF0dXJlZEltYWdl"
+    },
+    "summary": "Don’t miss TAPE FACE, the worldwide silent sensation, in this eccentric, whimsical experience that can be enjoyed by all ages, background and languages.",
+    "location": {
+        "latitude": 36.120005,
+        "longitude": -115.170638,
+        "minLatitude": 36.118888,
+        "maxLatitude": 36.120175,
+        "minLongitude": -115.168701,
+        "maxLongitude": -115.172301
+    },
+    "thumbnail": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2hhcnJhaHMvbGFzL2VuL3RhcGUtZmFjZS9famNyX2NvbnRlbnQvY2FyZHMvY2FyZC9pbWFnZQ"
+    },
+    "youtubeVideos": ["https://www.youtube.com/embed/DLD29SCTOkI"]
+}, {
+    "url": "/api/v1/events/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2NhZXNhcnMvY2x2L2VuL3VzaGVyLXRoZS1sYXMtdmVnYXMtcmVzaWRlbmN5",
+    "webUrl": "https://www.caesars.com/caesars-palace/shows/usher-the-las-vegas-residency",
+    "ticketsUrl": "https://www.ticketmaster.com/ushervegas?camefrom=CFC_CAESARSENT_CLV_UsherTheLasVegasResidency",
+    "prices": "Starting at $59 (Plus Taxes & Fees)",
+    "ibeBookable": false,
+    "address": {
+        "street": "3570 Las Vegas Boulevard South",
+        "city": "Las Vegas",
+        "state": "NV",
+        "zip": "89109"
+    },
+    "category": {
+        "id": "headliner",
+        "name": "Headliner"
+    },
+    "price": "59",
+    "venue": {
+        "name": "The Colosseum"
+    },
+    "dates": [{
+        "start": "2021-07-15",
+        "end": "2021-08-01",
+        "times": ["9:00 PM"],
+        "days": [6, 5, 3]
+    }, {
+        "start": "2021-12-27",
+        "end": "2022-01-02",
+        "times": ["9:00 PM"],
+        "days": [6, 5, 2, 3]
+    }],
+    "attractionId": "K8vZ9171bMV",
+    "venueId": "KovZ917A2m7",
+    "name": "Usher - The Las Vegas Residency",
+    "propertyName": "Caesars Palace ",
+    "property": "clv",
+    "market": "lvm",
+    "propertyRank": 3,
+    "marketRank": 9,
+    "featuredImage": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2NhZXNhcnMvY2x2L2VuL3VzaGVyLXRoZS1sYXMtdmVnYXMtcmVzaWRlbmN5L19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ZlYXR1cmVkSW1hZ2U"
+    },
+    "summary": "Global megastar and eight-time GRAMMY Award-winner Usher will headline a Las Vegas residency at The Colosseum at Caesars Palace, opening July 2021.",
+    "location": {
+        "latitude": 36.116454,
+        "longitude": -115.17436,
+        "minLatitude": 36.11484,
+        "maxLatitude": 36.11825,
+        "minLongitude": -115.17304,
+        "maxLongitude": -115.17987
+    },
+    "thumbnail": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2NhZXNhcnMvY2x2L2VuL3VzaGVyLXRoZS1sYXMtdmVnYXMtcmVzaWRlbmN5L19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdl"
+    },
+    "youtubeVideos": ["https://www.youtube.com/embed/bDl32tQ28fY"]
+}, {
+    "url": "/api/v1/events/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2NhZXNhcnMvY2x2L2VuL3N0aW5n",
+    "webUrl": "https://www.caesars.com/caesars-palace/shows/sting",
+    "ticketsUrl": "https://www.ticketmaster.com/stingvegas?camefrom=CFC_CAESARSENT_CLV_StingMySongs",
+    "prices": "Starting at $59 (Plus Taxes & Fees)",
+    "ibeBookable": false,
+    "address": {
+        "street": "3570 Las Vegas Boulevard South",
+        "city": "Las Vegas",
+        "state": "NV",
+        "zip": "89109"
+    },
+    "category": {
+        "id": "headliner",
+        "name": "Headliner"
+    },
+    "price": "59",
+    "venue": {
+        "name": "The Colosseum"
+    },
+    "dates": [{
+        "start": "2021-05-06",
+        "end": "2021-05-23",
+        "times": ["8:00 PM"],
+        "days": [6, 5, 3]
+    }, {
+        "start": "2021-10-28",
+        "end": "2021-11-14",
+        "times": ["8:00 PM"],
+        "days": [6, 5, 3]
+    }],
+    "attractionId": "K8vZ91712w7",
+    "venueId": "KovZ917A2m7",
+    "name": "Sting: My Songs",
+    "propertyName": "Caesars Palace ",
+    "property": "clv",
+    "market": "lvm",
+    "propertyRank": 4,
+    "marketRank": 10,
+    "featuredImage": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2NhZXNhcnMvY2x2L2VuL3N0aW5nL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ZlYXR1cmVkSW1hZ2U"
+    },
+    "summary": "17-time GRAMMY Award-winning musician Sting will headline his Las Vegas residency, “My Songs,” set to open at The Colosseum at Caesars Palace.",
+    "location": {
+        "latitude": 36.116454,
+        "longitude": -115.17436,
+        "minLatitude": 36.11484,
+        "maxLatitude": 36.11825,
+        "minLongitude": -115.17304,
+        "maxLongitude": -115.17987
+    },
+    "thumbnail": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2NhZXNhcnMvY2x2L2VuL3N0aW5nL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdl"
+    },
+    "youtubeVideos": ["https://www.youtube.com/embed/YM1qcbP9fTU"]
+}, {
+    "url": "/api/v1/events/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2NhZXNhcnMvY2x2L2VuL2pkdW5oYW0",
+    "webUrl": "https://www.caesars.com/caesars-palace/shows/jeff-dunham",
+    "prices": "Starting at $41 (plus tax & fees)",
+    "ibeBookable": true,
+    "address": {
+        "street": "3570 Las Vegas Boulevard South",
+        "city": "Las Vegas",
+        "state": "NV",
+        "zip": "89109"
+    },
+    "category": {
+        "id": "comedy",
+        "name": "Comedy"
+    },
+    "preferenceId": "30999",
+    "price": "41",
+    "venue": {
+        "name": "The Colosseum at Caesars Palace"
+    },
+    "dates": [],
+    "attractionId": "K8vZ91714jV",
+    "venueId": "KovZ917A2m7",
+    "name": "Jeff Dunham: SERIOUSLY!?",
+    "propertyName": "Caesars Palace ",
+    "property": "clv",
+    "market": "lvm",
+    "propertyRank": 9,
+    "marketRank": 19,
+    "featuredImage": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2NhZXNhcnMvY2x2L2VuL2pkdW5oYW0vX2pjcl9jb250ZW50L2NhcmRzL2NhcmQvZmVhdHVyZWRJbWFnZQ"
+    },
+    "summary": "Jeff Dunham and his cohorts are bringing their brand-new international tour, “JEFF DUNHAM: SERIOUSLY!?” to The Colosseum for select nights.",
+    "location": {
+        "latitude": 36.116454,
+        "longitude": -115.17436,
+        "minLatitude": 36.11484,
+        "maxLatitude": 36.11825,
+        "minLongitude": -115.17304,
+        "maxLongitude": -115.17987
+    },
+    "thumbnail": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2NhZXNhcnMvY2x2L2VuL2pkdW5oYW0vX2pjcl9jb250ZW50L2NhcmRzL2NhcmQvaW1hZ2U"
+    },
+    "youtubeVideos": ["https://www.youtube.com/embed/0OQBxNJHjSY"]
+}, {
+    "url": "/api/v1/events/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2NhZXNhcnMvY2x2L2VuL3JlYmEtYnJvb2tzLWR1bm4tbGFzLXZlZ2Fz",
+    "webUrl": "https://www.caesars.com/caesars-palace/shows/reba-brooks-dunn-las-vegas",
+    "seatingChart": "/content/dam/clv/Shows/Seatmap/Colosseum/Colosseum.jpg",
+    "prices": "Starting From $55 (plus tax and fees)",
+    "ibeBookable": true,
+    "address": {
+        "street": "3570 Las Vegas Boulevard South",
+        "city": "Las Vegas",
+        "state": "NV",
+        "zip": "89109"
+    },
+    "category": {
+        "id": "headliner",
+        "name": "Headliner"
+    },
+    "preferenceId": "12776",
+    "price": "55",
+    "venue": {
+        "name": "The Colosseum at Caesars Palace"
+    },
+    "dates": [],
+    "attractionId": "K8vZ9171pj7",
+    "venueId": "KovZ917A2m7",
+    "name": "Reba, Brooks & Dunn: Together in Vegas",
+    "propertyName": "Caesars Palace ",
+    "property": "clv",
+    "market": "lvm",
+    "propertyRank": 7,
+    "marketRank": 18,
+    "featuredImage": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2NhZXNhcnMvY2x2L2VuL3JlYmEtYnJvb2tzLWR1bm4tbGFzLXZlZ2FzL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ZlYXR1cmVkSW1hZ2U"
+    },
+    "summary": "Reba, Kix Brooks and Ronnie Dunn join forces for a one-of-a-kind country music residency – REBA, BROOKS & DUNN: Together in Vegas.",
+    "location": {
+        "latitude": 36.117885,
+        "longitude": -115.174958,
+        "minLatitude": 36.11484,
+        "maxLatitude": 36.11825,
+        "minLongitude": -115.17304,
+        "maxLongitude": -115.17987
+    },
+    "thumbnail": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2NhZXNhcnMvY2x2L2VuL3JlYmEtYnJvb2tzLWR1bm4tbGFzLXZlZ2FzL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdl"
+    }
+}, {
+    "url": "/api/v1/events/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2NhZXNhcnMvY2x2L2VuL21vcnJpc3NleS12aXZhLW1vei12ZWdhcw",
+    "webUrl": "https://www.caesars.com/caesars-palace/shows/morrissey",
+    "ticketsUrl": "https://www.ticketmaster.com/morrisseyvegas?camefrom=CFC_CAESARSENT_CLV_MorrisseyVivaMozVegas",
+    "prices": "Starting at $59 (Plus Taxes & Fees)",
+    "ibeBookable": false,
+    "address": {
+        "street": "3570 Las Vegas Boulevard South",
+        "city": "Las Vegas",
+        "state": "NV",
+        "zip": "89109"
+    },
+    "category": {
+        "id": "headliner",
+        "name": "Headliner"
+    },
+    "price": "59",
+    "venue": {
+        "name": "The Colosseum"
+    },
+    "dates": [{
+        "start": "2021-08-27",
+        "end": "2021-09-06",
+        "times": ["8:30 PM"],
+        "days": [6, 0, 4]
+    }],
+    "attractionId": "K8vZ9171Fvf",
+    "venueId": "KovZ917A2m7",
+    "name": "Morrissey: Viva Moz Vegas",
+    "propertyName": "Caesars Palace ",
+    "property": "clv",
+    "market": "lvm",
+    "propertyRank": 4,
+    "marketRank": 11,
+    "featuredImage": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2NhZXNhcnMvY2x2L2VuL21vcnJpc3NleS12aXZhLW1vei12ZWdhcy9famNyX2NvbnRlbnQvY2FyZHMvY2FyZC9mZWF0dXJlZEltYWdl"
+    },
+    "summary": "Don’t miss music icon Morrissey in his exclusive Las Vegas residency \"Viva Moz Vegas\" at The Colosseum at Caesars Palace.",
+    "location": {
+        "latitude": 36.116454,
+        "longitude": -115.17436,
+        "minLatitude": 36.11484,
+        "maxLatitude": 36.11825,
+        "minLongitude": -115.17304,
+        "maxLongitude": -115.17987
+    },
+    "thumbnail": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2NhZXNhcnMvY2x2L2VuL21vcnJpc3NleS12aXZhLW1vei12ZWdhcy9famNyX2NvbnRlbnQvY2FyZHMvY2FyZC9pbWFnZQ"
+    },
+    "youtubeVideos": ["https://www.youtube.com/embed/LLul1xPMdRk"]
+}, {
+    "url": "/api/v1/events/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2NhZXNhcnMvY2x2L2VuL2Fic2ludGhl",
+    "webUrl": "https://www.caesars.com/caesars-palace/shows/absinthe",
+    "ticketsUrl": "https://www.ticketmaster.com/absinthe-tickets/artist/802082?camefrom=CFC_CAESARSENT_CLV_Absinthe",
+    "seatingChart": "/content/dam/clv/Shows/Absinthe/clv-newabsinthe-seatmap-2020.pdf",
+    "prices": "$149",
+    "ibeBookable": false,
+    "address": {
+        "street": "3570 Las Vegas Boulevard South",
+        "city": "Las Vegas",
+        "state": "NV",
+        "zip": "89109"
+    },
+    "category": {
+        "id": "production",
+        "name": "Production"
+    },
+    "preferenceId": "12913",
+    "price": "149",
+    "venue": {
+        "name": "The Roman Plaza at Caesars Palace"
+    },
+    "dates": [{
+        "start": "2020-11-23",
+        "end": "2021-01-01",
+        "times": ["7:00 PM", "9:30 PM"],
+        "days": [6, 5, 0, 3, 4]
+    }],
+    "attractionId": "K8vZ917GF4V",
+    "venueId": "KovZ917App7",
+    "name": "Absinthe",
+    "propertyName": "Caesars Palace ",
+    "property": "clv",
+    "market": "lvm",
+    "propertyRank": 2,
+    "marketRank": 1,
+    "featuredImage": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2NhZXNhcnMvY2x2L2VuL2Fic2ludGhlL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ZlYXR1cmVkSW1hZ2U"
+    },
+    "summary": "A surreal experience for adults, ABSINTHE features wild and outlandish acts in a theatre-in-the-round presentation. Audiences are treated to a night of imagination and excess with performances that amaze and inspire.",
+    "location": {
+        "latitude": 36.115543,
+        "longitude": -115.173905,
+        "minLatitude": 36.11484,
+        "maxLatitude": 36.11825,
+        "minLongitude": -115.17304,
+        "maxLongitude": -115.17987
+    },
+    "thumbnail": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2NhZXNhcnMvY2x2L2VuL2Fic2ludGhlL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdl"
+    },
+    "youtubeVideos": ["https://www.youtube.com/embed/peyWcz7QhBc"]
+}, {
+    "url": "/api/v1/events/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2NhZXNhcnMvY2x2L2VuL2plcnJ5X3NlaW5mZWxk",
+    "webUrl": "https://www.caesars.com/caesars-palace/shows/jerry-seinfeld",
+    "seatingChart": "/content/dam/clv/Shows/Seatmap/Colosseum/Colosseum.jpg",
+    "prices": "Starting From $82.50 (Plus Tax & Fees)",
+    "ibeBookable": true,
+    "address": {
+        "street": "3570 Las Vegas Boulevard South",
+        "city": "Las Vegas",
+        "state": "NV",
+        "zip": "89109"
+    },
+    "category": {
+        "id": "headliner",
+        "name": "Headliner"
+    },
+    "preferenceId": "12118",
+    "price": "82.50",
+    "venue": {
+        "name": "The Colosseum at Caesars Palace"
+    },
+    "dates": [],
+    "attractionId": "K8vZ9171oq7",
+    "venueId": "KovZ917A2m7",
+    "name": "Jerry Seinfeld",
+    "propertyName": "Caesars Palace ",
+    "property": "clv",
+    "market": "lvm",
+    "propertyRank": 10,
+    "marketRank": 30,
+    "featuredImage": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2NhZXNhcnMvY2x2L2VuL2plcnJ5X3NlaW5mZWxkL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ZlYXR1cmVkSW1hZ2U"
+    },
+    "summary": "Jerry Seinfeld fans can catch the all-star comedian as he returns to The Colosseum at Caesars Palace for his critically acclaimed stand-up comedy.",
+    "location": {
+        "latitude": 36.117918,
+        "longitude": -115.174927,
+        "minLatitude": 36.11484,
+        "maxLatitude": 36.11825,
+        "minLongitude": -115.17304,
+        "maxLongitude": -115.17987
+    },
+    "thumbnail": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2NhZXNhcnMvY2x2L2VuL2plcnJ5X3NlaW5mZWxkL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdl"
+    }
+}, {
+    "url": "/api/v1/events/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2NhZXNhcnMvY2x2L2VuL2NvbG9zc2V1bQ",
+    "webUrl": "https://www.caesars.com/caesars-palace/shows/the-colosseum",
+    "ibeBookable": false,
+    "address": {
+        "street": "3570 Las Vegas Boulevard South",
+        "city": "Las Vegas",
+        "state": "NV",
+        "zip": "89109"
+    },
+    "category": {
+        "id": "arena",
+        "name": "Arena"
+    },
+    "dates": [],
+    "name": "The Colosseum",
+    "propertyName": "Caesars Palace ",
+    "property": "clv",
+    "market": "lvm",
+    "propertyRank": 1,
+    "marketRank": 30,
+    "summary": "Located at the heart of the Las Vegas Strip at Caesars Palace Las Vegas, experience the \"Home of the Greatest Entertainers in the World.\" Concertgoers will enjoy performances from some of the most groundbreaking artists of all time.",
+    "location": {
+        "latitude": 36.118183,
+        "longitude": -115.174895,
+        "minLatitude": 36.11484,
+        "maxLatitude": 36.11825,
+        "minLongitude": -115.17304,
+        "maxLongitude": -115.17987
+    },
+    "thumbnail": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2NhZXNhcnMvY2x2L2VuL2NvbG9zc2V1bS9famNyX2NvbnRlbnQvY2FyZHMvY2FyZC9pbWFnZQ"
+    }
+}, {
+    "url": "/api/v1/events/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2NhZXNhcnMvY2x2L2VuL3dheW5lLW5ld3Rvbg",
+    "webUrl": "https://www.caesars.com/caesars-palace/shows/wayne-newton-up-close-and-personal",
+    "seatingChart": "/content/dam/clv/Shows/Seatmap/cleopatras-barge/clv-cleopatras-barge-seating-chart.pdf",
+    "prices": "Starting at $66 (plus taxes & fees)",
+    "ibeBookable": false,
+    "address": {
+        "street": "3570 Las Vegas Boulevard South",
+        "city": "Las Vegas",
+        "state": "NV",
+        "zip": "89109"
+    },
+    "category": {
+        "id": "concert",
+        "name": "Concert"
+    },
+    "price": "66",
+    "venue": {
+        "name": "Cleopatra's Barge"
+    },
+    "dates": [],
+    "attractionId": "K8vZ9171GzV",
+    "venueId": "KovZpZAEtedA",
+    "name": "Wayne Newton: Up Close and Personal",
+    "propertyName": "Caesars Palace ",
+    "property": "clv",
+    "market": "lvm",
+    "propertyRank": 11,
+    "marketRank": 22,
+    "featuredImage": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2NhZXNhcnMvY2x2L2VuL3dheW5lLW5ld3Rvbi9famNyX2NvbnRlbnQvY2FyZHMvY2FyZC9mZWF0dXJlZEltYWdl"
+    },
+    "summary": "Las Vegas legend, actor, singer and acclaimed entertainer, “Mr. Las Vegas,” calls Caesars Palace home, with a headlining residency of his show, “Wayne Newton: Up Close & Personal” at the resort’s iconic Cleopatra’s Barge.",
+    "location": {
+        "latitude": 36.116454,
+        "longitude": -115.17436,
+        "minLatitude": 36.11484,
+        "maxLatitude": 36.11825,
+        "minLongitude": -115.17304,
+        "maxLongitude": -115.17987
+    },
+    "thumbnail": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2NhZXNhcnMvY2x2L2VuL3dheW5lLW5ld3Rvbi9famNyX2NvbnRlbnQvY2FyZHMvY2FyZC9pbWFnZQ"
+    }
+}, {
+    "url": "/api/v1/events/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2NhZXNhcnMvY2x2L2VuL2tlaXRoLXVyYmFuLWxpdmUtbGFzLXZlZ2Fz",
+    "webUrl": "https://www.caesars.com/caesars-palace/shows/keith-urban-live-las-vegas",
+    "prices": "Starting at $69 (Plus Taxes & Fees)",
+    "ibeBookable": false,
+    "address": {
+        "street": "3570 Las Vegas Boulevard South",
+        "city": "Las Vegas",
+        "state": "NV",
+        "zip": "89109"
+    },
+    "category": {
+        "id": "headliner",
+        "name": "Headliner"
+    },
+    "images": [{
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2NhZXNhcnMvY2x2L2VuL2tlaXRoLXVyYmFuLWxpdmUtbGFzLXZlZ2FzL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczE"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2NhZXNhcnMvY2x2L2VuL2tlaXRoLXVyYmFuLWxpdmUtbGFzLXZlZ2FzL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczEx"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2NhZXNhcnMvY2x2L2VuL2tlaXRoLXVyYmFuLWxpdmUtbGFzLXZlZ2FzL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczI"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2NhZXNhcnMvY2x2L2VuL2tlaXRoLXVyYmFuLWxpdmUtbGFzLXZlZ2FzL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczM"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2NhZXNhcnMvY2x2L2VuL2tlaXRoLXVyYmFuLWxpdmUtbGFzLXZlZ2FzL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczQ"
+    }],
+    "price": "69",
+    "venue": {
+        "name": "The Colosseum"
+    },
+    "dates": [],
+    "attractionId": "K8vZ91710df",
+    "venueId": "KovZ917A2m7",
+    "name": "Keith Urban Live - Las Vegas",
+    "propertyName": "Caesars Palace ",
+    "property": "clv",
+    "market": "lvm",
+    "propertyRank": 6,
+    "marketRank": 16,
+    "featuredImage": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2NhZXNhcnMvY2x2L2VuL2tlaXRoLXVyYmFuLWxpdmUtbGFzLXZlZ2FzL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ZlYXR1cmVkSW1hZ2U"
+    },
+    "summary": "Four-time GRAMMY Award winner Keith Urban brings \"Keith Urban Live - Las Vegas\" to The Colosseum at Caesars Palace for select dates!",
+    "location": {
+        "latitude": 36.116454,
+        "longitude": -115.17436,
+        "minLatitude": 36.11484,
+        "maxLatitude": 36.11825,
+        "minLongitude": -115.17304,
+        "maxLongitude": -115.17987
+    },
+    "thumbnail": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2NhZXNhcnMvY2x2L2VuL2tlaXRoLXVyYmFuLWxpdmUtbGFzLXZlZ2FzL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdl"
+    }
+}, {
+    "url": "/api/v1/events/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2NhZXNhcnMvY2x2L2VuL3JvZF9zdGV3YXJ0",
+    "webUrl": "https://www.caesars.com/caesars-palace/shows/rod-stewart",
+    "seatingChart": "/content/dam/clv/Shows/Seatmap/Colosseum/Colosseum.jpg",
+    "prices": "starting From $49 (Plus Tax & Fees)",
+    "ibeBookable": true,
+    "address": {
+        "street": "3570 Las Vegas Boulevard South",
+        "city": "Las Vegas",
+        "state": "NV",
+        "zip": "89109"
+    },
+    "category": {
+        "id": "headliner",
+        "name": "Headliner"
+    },
+    "images": [{
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2NhZXNhcnMvY2x2L2VuL3JvZF9zdGV3YXJ0L19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczE"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2NhZXNhcnMvY2x2L2VuL3JvZF9zdGV3YXJ0L19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczEx"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2NhZXNhcnMvY2x2L2VuL3JvZF9zdGV3YXJ0L19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczI"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2NhZXNhcnMvY2x2L2VuL3JvZF9zdGV3YXJ0L19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczM"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2NhZXNhcnMvY2x2L2VuL3JvZF9zdGV3YXJ0L19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczQ"
+    }],
+    "preferenceId": "12168",
+    "price": "49",
+    "venue": {
+        "name": "The Colosseum at Caesars Palace"
+    },
+    "dates": [],
+    "attractionId": "K8vZ917135f",
+    "venueId": "KovZ917A2m7",
+    "name": "Rod Stewart: The Hits",
+    "propertyName": "Caesars Palace ",
+    "property": "clv",
+    "market": "lvm",
+    "propertyRank": 8,
+    "marketRank": 17,
+    "featuredImage": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2NhZXNhcnMvY2x2L2VuL3JvZF9zdGV3YXJ0L19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ZlYXR1cmVkSW1hZ2U"
+    },
+    "summary": "A Las Vegas concert celebration of his five decades atop the musical world.",
+    "location": {
+        "latitude": 36.117885,
+        "longitude": -115.174958,
+        "minLatitude": 36.11484,
+        "maxLatitude": 36.11825,
+        "minLongitude": -115.17304,
+        "maxLongitude": -115.17987
+    },
+    "thumbnail": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2NhZXNhcnMvY2x2L2VuL3JvZF9zdGV3YXJ0L19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdl"
+    }
+}, {
+    "url": "/api/v1/events/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2NhZXNhcnMvY2x2L2VuL290aGVyLXNob3dz",
+    "webUrl": "https://www.caesars.com/las-vegas/shows",
+    "ibeBookable": false,
+    "address": {
+        "street": "3570 Las Vegas Boulevard South",
+        "city": "Las Vegas",
+        "state": "NV",
+        "zip": "89109"
+    },
+    "category": {
+        "id": "promotions",
+        "name": "Promotions"
+    },
+    "preferenceId": "33071",
+    "dates": [],
+    "name": "Other Las Vegas Shows",
+    "propertyName": "Caesars Palace ",
+    "property": "clv",
+    "market": "lvm",
+    "propertyRank": 100,
+    "marketRank": 30,
+    "summary": "A pioneer in Las Vegas entertainment, Caesars Entertainment presents the best acts in the business. Favorites like Gwen Stefani, Christina Aguilera, Sting, Mariah Carey and more call Caesars Entertainment venues their home. Find out who’s playing in our Las Vegas entertainment guide.",
+    "location": {
+        "latitude": 36.11517,
+        "longitude": -115.173969,
+        "minLatitude": 36.11484,
+        "maxLatitude": 36.11825,
+        "minLongitude": -115.17304,
+        "maxLongitude": -115.17987
+    },
+    "thumbnail": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2NhZXNhcnMvY2x2L2VuL290aGVyLXNob3dzL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdl"
+    }
+}, {
+    "url": "/api/v1/events/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3BsYW5ldF9ob2xseXdvb2QvcGh2L2VuL2d3ZW5fc3RlZmFuaQ",
+    "webUrl": "https://www.caesars.com/planet-hollywood/shows/gwen-stefani",
+    "prices": "Prices Starting at $59 (plus tax & fees)",
+    "ibeBookable": false,
+    "address": {
+        "street": "3667 Las Vegas Boulevard South",
+        "city": "Las Vegas",
+        "state": "NV",
+        "zip": "89109"
+    },
+    "category": {
+        "id": "headliner",
+        "name": "Headliner"
+    },
+    "images": [{
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3BsYW5ldF9ob2xseXdvb2QvcGh2L2VuL2d3ZW5fc3RlZmFuaS9famNyX2NvbnRlbnQvY2FyZHMvY2FyZC9pbWFnZXMx",
+        "title": "High Energy"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3BsYW5ldF9ob2xseXdvb2QvcGh2L2VuL2d3ZW5fc3RlZmFuaS9famNyX2NvbnRlbnQvY2FyZHMvY2FyZC9pbWFnZXMxMQ",
+        "title": "Eye-Popping Fashion"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3BsYW5ldF9ob2xseXdvb2QvcGh2L2VuL2d3ZW5fc3RlZmFuaS9famNyX2NvbnRlbnQvY2FyZHMvY2FyZC9pbWFnZXMy",
+        "title": "All The Hits"
+    }],
+    "preferenceId": "32256",
+    "price": "59",
+    "venue": {
+        "name": "Zappos Theater"
+    },
+    "dates": [],
+    "attractionId": "K8vZ9175S8V",
+    "venueId": "KovZpZAJalEA",
+    "name": "Gwen Stefani - Just A Girl",
+    "propertyName": "Planet Hollywood",
+    "property": "phv",
+    "market": "lvm",
+    "propertyRank": 1,
+    "marketRank": 20,
+    "featuredImage": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3BsYW5ldF9ob2xseXdvb2QvcGh2L2VuL2d3ZW5fc3RlZmFuaS9famNyX2NvbnRlbnQvY2FyZHMvY2FyZC9mZWF0dXJlZEltYWdl"
+    },
+    "summary": "Multi-platinum recording artist and global icon Gwen Stefani is now on the Las Vegas Strip with her exclusive headlining residency show, “Gwen Stefani – Just a Girl”!",
+    "location": {
+        "latitude": 36.110245,
+        "longitude": -115.169915,
+        "minLatitude": 36.108253,
+        "maxLatitude": 36.111222,
+        "minLongitude": -115.167714,
+        "maxLongitude": -115.172773
+    },
+    "thumbnail": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3BsYW5ldF9ob2xseXdvb2QvcGh2L2VuL2d3ZW5fc3RlZmFuaS9famNyX2NvbnRlbnQvY2FyZHMvY2FyZC9pbWFnZQ"
+    }
+}, {
+    "url": "/api/v1/events/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3BsYW5ldF9ob2xseXdvb2QvcGh2L2VuL21vcmUtbHYtc2hvd3M",
+    "ibeBookable": false,
+    "address": {
+        "street": "3667 Las Vegas Boulevard South",
+        "city": "Las Vegas",
+        "state": "NV",
+        "zip": "89109"
+    },
+    "category": {
+        "id": "show",
+        "name": "Show"
+    },
+    "preferenceId": "33013",
+    "dates": [],
+    "name": "More Las Vegas Shows",
+    "propertyName": "Planet Hollywood",
+    "property": "phv",
+    "market": "lvm",
+    "propertyRank": 100,
+    "marketRank": 1000,
+    "summary": "Caesars Entertainment presents the best in Las Vegas entertainment, with audience favorites like Gwen Stefani, Christina Aguilera, Sting, Mariah Carey and more. See who’s playing at our Las Vegas entertainment calendar.",
+    "location": {
+        "latitude": 36.110245,
+        "longitude": -115.169915,
+        "minLatitude": 36.108253,
+        "maxLatitude": 36.111222,
+        "minLongitude": -115.167714,
+        "maxLongitude": -115.172773
+    },
+    "thumbnail": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3BsYW5ldF9ob2xseXdvb2QvcGh2L2VuL21vcmUtbHYtc2hvd3MvX2pjcl9jb250ZW50L2NhcmRzL2NhcmQvaW1hZ2U"
+    }
+}, {
+    "url": "/api/v1/events/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3BsYW5ldF9ob2xseXdvb2QvcGh2L2VuL2NocmlzdGluYS1hZ3VpbGVyYQ",
+    "webUrl": "https://www.caesars.com/planet-hollywood/shows/christina-aguilera",
+    "prices": "Starting at $59",
+    "ibeBookable": false,
+    "address": {
+        "street": "3667 Las Vegas Boulevard South",
+        "city": "Las Vegas",
+        "state": "NV",
+        "zip": "89109"
+    },
+    "category": {
+        "id": "headliner",
+        "name": "Headliner"
+    },
+    "price": "59",
+    "venue": {
+        "name": "Zappos Theater "
+    },
+    "dates": [],
+    "attractionId": "K8vZ9171OQ7",
+    "venueId": "KovZpZAJalEA",
+    "name": "Christina Aguilera: The Xperience ",
+    "propertyName": "Planet Hollywood",
+    "property": "phv",
+    "market": "lvm",
+    "propertyRank": 2,
+    "marketRank": 30,
+    "featuredImage": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3BsYW5ldF9ob2xseXdvb2QvcGh2L2VuL2NocmlzdGluYS1hZ3VpbGVyYS9famNyX2NvbnRlbnQvY2FyZHMvY2FyZC9mZWF0dXJlZEltYWdl"
+    },
+    "summary": "Multi-Platinum singer-songwriter headlines her residency show, Christina Aguilera: The Xperience, at Zappos Theater inside Planet Hollywood Resort & Casino!",
+    "location": {
+        "latitude": 36.110245,
+        "longitude": -115.169915,
+        "minLatitude": 36.108253,
+        "maxLatitude": 36.111222,
+        "minLongitude": -115.167714,
+        "maxLongitude": -115.172773
+    },
+    "thumbnail": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3BsYW5ldF9ob2xseXdvb2QvcGh2L2VuL2NocmlzdGluYS1hZ3VpbGVyYS9famNyX2NvbnRlbnQvY2FyZHMvY2FyZC9pbWFnZQ"
+    }
+}, {
+    "url": "/api/v1/events/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3BsYW5ldF9ob2xseXdvb2QvcGh2L2VuL3NoYW5pYS10d2Fpbg",
+    "webUrl": "https://www.caesars.com/planet-hollywood/shows/shania-twain",
+    "prices": "Starting at $60",
+    "ibeBookable": false,
+    "address": {
+        "street": "3667 Las Vegas Boulevard South",
+        "city": "Las Vegas",
+        "state": "NV",
+        "zip": "89109"
+    },
+    "category": {
+        "id": "headliner",
+        "name": "Headliner"
+    },
+    "price": "60",
+    "venue": {
+        "name": "Zappos Theater "
+    },
+    "dates": [],
+    "attractionId": "K8vZ91719n0",
+    "venueId": "KovZpZAJalEA",
+    "name": "Shania Twain \"Let's Go!\" The Vegas Residency ",
+    "propertyName": "Planet Hollywood",
+    "property": "phv",
+    "market": "lvm",
+    "propertyRank": 3,
+    "marketRank": 21,
+    "featuredImage": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3BsYW5ldF9ob2xseXdvb2QvcGh2L2VuL3NoYW5pYS10d2Fpbi9famNyX2NvbnRlbnQvY2FyZHMvY2FyZC9mZWF0dXJlZEltYWdl"
+    },
+    "summary": "One of music’s most renowned trailblazers and the top-selling female country artist of all-time returns to the Las Vegas Strip with Shania Twain “Let’s Go!” The Vegas Residency at Zappos Theater at Planet Hollywood Resort & Casino.",
+    "location": {
+        "latitude": 36.110245,
+        "longitude": -115.169915,
+        "minLatitude": 36.108253,
+        "maxLatitude": 36.111222,
+        "minLongitude": -115.167714,
+        "maxLongitude": -115.172773
+    },
+    "thumbnail": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3BsYW5ldF9ob2xseXdvb2QvcGh2L2VuL3NoYW5pYS10d2Fpbi9famNyX2NvbnRlbnQvY2FyZHMvY2FyZC9pbWFnZQ"
+    }
+}, {
+    "url": "/api/v1/events/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3BsYW5ldF9ob2xseXdvb2QvcGh2L2VuL3Njb3JwaW9ucw",
+    "webUrl": "https://www.caesars.com/planet-hollywood/shows/scorpions",
+    "ticketsUrl": "https://www.ticketmaster.com/scorpionsvegas?camefrom=CFC_CAESARSENT_PHV_ScorpionsSinCityNightswithQueensrche",
+    "ibeBookable": false,
+    "address": {
+        "street": "3667 Las Vegas Boulevard South",
+        "city": "Las Vegas",
+        "state": "NV",
+        "zip": "89109"
+    },
+    "category": {
+        "id": "headliner",
+        "name": "Headliner"
+    },
+    "dates": [{
+        "start": "2021-05-07",
+        "end": "2021-05-23",
+        "times": ["8:00 PM"],
+        "days": [6]
+    }, {
+        "start": "2021-05-11",
+        "end": "2021-05-27",
+        "blackouts": ["2021-05-19"],
+        "times": ["8:00 PM"],
+        "days": [3]
+    }, {
+        "start": "2021-05-17",
+        "end": "2021-05-21",
+        "times": ["8:00 PM"],
+        "days": [2, 4]
+    }, {
+        "start": "2021-05-27",
+        "end": "2021-05-31",
+        "times": ["8:00 PM"],
+        "days": [5, 0]
+    }],
+    "attractionId": "K8vZ91712cf",
+    "venueId": "KovZpZAJalEA",
+    "name": "Scorpions “Sin City Nights” with Queensrÿche",
+    "propertyName": "Planet Hollywood",
+    "property": "phv",
+    "market": "lvm",
+    "propertyRank": 5,
+    "marketRank": 13,
+    "summary": "One of the most iconic and influential hard rock bands of all time will be taking over the Las Vegas Strip from May 8 - 30 with their exclusive headlining residency show, Scorpions “Sin City Nights” at Zappos Theater at Planet Hollywood Resort & Casino. Scorpions will be joined by special guests Queensrÿche.",
+    "location": {
+        "latitude": 36.110245,
+        "longitude": -115.169915,
+        "minLatitude": 36.108253,
+        "maxLatitude": 36.111222,
+        "minLongitude": -115.167714,
+        "maxLongitude": -115.172773
+    },
+    "thumbnail": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3BsYW5ldF9ob2xseXdvb2QvcGh2L2VuL3Njb3JwaW9ucy9famNyX2NvbnRlbnQvY2FyZHMvY2FyZC9pbWFnZQ"
+    }
+}, {
+    "url": "/api/v1/events/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3BsYW5ldF9ob2xseXdvb2QvcGh2L2VuL2NyYXp5LWdpcmxz",
+    "webUrl": "https://www.caesars.com/planet-hollywood/shows/Crazy-Girls",
+    "seatingChart": "/content/dam/phv/Shows/Seatmap/sin-city/sin_city.jpg",
+    "prices": "$54-$98",
+    "ibeBookable": true,
+    "address": {
+        "street": "3667 Las Vegas Boulevard South",
+        "city": "Las Vegas",
+        "state": "NV",
+        "zip": "89109"
+    },
+    "category": {
+        "id": "adult",
+        "name": "Adult"
+    },
+    "preferenceId": "29169",
+    "price": "54",
+    "venue": {
+        "name": "Sin City Theater"
+    },
+    "dates": [],
+    "attractionId": "K8vZ9172uAV",
+    "venueId": "KovZpZAJalJA",
+    "name": "Crazy Girls",
+    "propertyName": "Planet Hollywood",
+    "property": "phv",
+    "market": "lvm",
+    "propertyRank": 12,
+    "marketRank": 30,
+    "featuredImage": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3BsYW5ldF9ob2xseXdvb2QvcGh2L2VuL2NyYXp5LWdpcmxzL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ZlYXR1cmVkSW1hZ2U"
+    },
+    "summary": "For more than 28 years, director and producer Norbert Aleman’s Crazy Girls has set the sexy standard by which all other Las Vegas burlesque shows are measured.",
+    "location": {
+        "latitude": 36.110245,
+        "longitude": -115.169915,
+        "minLatitude": 36.108253,
+        "maxLatitude": 36.111222,
+        "minLongitude": -115.167714,
+        "maxLongitude": -115.172773
+    },
+    "thumbnail": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3BsYW5ldF9ob2xseXdvb2QvcGh2L2VuL2NyYXp5LWdpcmxzL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdl"
+    },
+    "youtubeVideos": ["https://www.youtube.com/embed/MxeksLojlqk "]
+}, {
+    "url": "/api/v1/events/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3BsYW5ldF9ob2xseXdvb2QvcGh2L2VuL3Rlbm9ycy1vZi1yb2Nr",
+    "webUrl": "https://www.caesars.com/planet-hollywood/shows/tenors-of-rock",
+    "seatingChart": "/content/dam/phv/Shows/tenors-of-rock/phv-tenorsofrock-seatmap.pdf",
+    "prices": "Starting at $69.95 (Plus taxes & fees)",
+    "ibeBookable": false,
+    "address": {
+        "street": "3667 Las Vegas Boulevard South",
+        "city": "Las Vegas",
+        "state": "NV",
+        "zip": "89109"
+    },
+    "category": {
+        "id": "production",
+        "name": "Production"
+    },
+    "price": "69.95",
+    "venue": {
+        "name": "Sin City Theater at Planet Hollywood"
+    },
+    "dates": [],
+    "attractionId": "K8vZ917Kze7",
+    "venueId": "KovZpZAJalJA",
+    "name": "Tenors of Rock",
+    "propertyName": "Planet Hollywood",
+    "property": "phv",
+    "market": "lvm",
+    "propertyRank": 11,
+    "marketRank": 30,
+    "featuredImage": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3BsYW5ldF9ob2xseXdvb2QvcGh2L2VuL3Rlbm9ycy1vZi1yb2NrL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ZlYXR1cmVkSW1hZ2U"
+    },
+    "summary": "As seen on the X Factor and formed with five of the best male rock voices in the UK, Tenors of Rock brings a new sound to familiar rock hits. Only at Planet Hollywood Las Vegas!",
+    "location": {
+        "latitude": 36.112573,
+        "longitude": -115.170633,
+        "minLatitude": 36.108253,
+        "maxLatitude": 36.111222,
+        "minLongitude": -115.167714,
+        "maxLongitude": -115.172773
+    },
+    "thumbnail": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3BsYW5ldF9ob2xseXdvb2QvcGh2L2VuL3Rlbm9ycy1vZi1yb2NrL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdl"
+    },
+    "youtubeVideos": ["https://www.youtube.com/embed/REnp7SKx4E4"]
+}, {
+    "url": "/api/v1/events/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3BsYW5ldF9ob2xseXdvb2QvcGh2L2VuL2tlbGx5LWNsYXJrc29u",
+    "webUrl": "https://www.caesars.com/planet-hollywood/shows/kelly-clarkson",
+    "ibeBookable": false,
+    "address": {
+        "street": "3667 Las Vegas Boulevard South",
+        "city": "Las Vegas",
+        "state": "NV",
+        "zip": "89109"
+    },
+    "category": {
+        "id": "headliner",
+        "name": "Headliner"
+    },
+    "dates": [],
+    "attractionId": "K8vZ9175_fV",
+    "venueId": "KovZpZAJalEA",
+    "name": "Kelly Clarkson: Invincible ",
+    "propertyName": "Planet Hollywood",
+    "property": "phv",
+    "market": "lvm",
+    "propertyRank": 1,
+    "marketRank": 30,
+    "featuredImage": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3BsYW5ldF9ob2xseXdvb2QvcGh2L2VuL2tlbGx5LWNsYXJrc29uL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ZlYXR1cmVkSW1hZ2U"
+    },
+    "summary": "GRAMMY Award-winning global superstar Kelly Clarkson has announced that she will be headlining a brand-new Las Vegas residency, Kelly Clarkson: Invincible, opening at Zappos Theater at Planet Hollywood Resort & Casino.",
+    "location": {
+        "latitude": 36.110245,
+        "longitude": -115.169915,
+        "minLatitude": 36.108253,
+        "maxLatitude": 36.111222,
+        "minLongitude": -115.167714,
+        "maxLongitude": -115.172773
+    },
+    "thumbnail": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3BsYW5ldF9ob2xseXdvb2QvcGh2L2VuL2tlbGx5LWNsYXJrc29uL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdl"
+    }
+}, {
+    "url": "/api/v1/events/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3BsYW5ldF9ob2xseXdvb2QvcGh2L2VuL2p1ZGFzLXByaWVzdA",
+    "ticketsUrl": "https://www.ticketmaster.com/judas-priest-tickets/artist/807246?venueId=467893&camefrom=CFC_CAESARSENT_PHV_JudasPriest50HeavyMetalYearsTour",
+    "ibeBookable": false,
+    "address": {
+        "street": "3667 Las Vegas Boulevard South",
+        "city": "Las Vegas",
+        "state": "NV",
+        "zip": "89109"
+    },
+    "category": {
+        "id": "concert",
+        "name": "Concert"
+    },
+    "dates": [{
+        "start": "2021-10-07",
+        "end": "2021-10-09",
+        "times": ["8:00 PM"],
+        "days": [5]
+    }],
+    "attractionId": "K8vZ91715LV",
+    "venueId": "KovZpZAJalEA",
+    "name": "Judas Priest 50 Heavy Metal Years Tour",
+    "propertyName": "Planet Hollywood",
+    "property": "phv",
+    "market": "lvm",
+    "propertyRank": 6,
+    "marketRank": 30,
+    "summary": "One of heavy metal’s all-time greats, Judas Priest, will be celebrating their 50th anniversary this year at Zappos Theater at Planet Hollywood Resort & Casino on Friday, Oct. 8, 2021 with featured openers Sabaton.",
+    "location": {
+        "latitude": 36.110245,
+        "longitude": -115.169915,
+        "minLatitude": 36.108253,
+        "maxLatitude": 36.111222,
+        "minLongitude": -115.167714,
+        "maxLongitude": -115.172773
+    },
+    "thumbnail": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3BsYW5ldF9ob2xseXdvb2QvcGh2L2VuL2p1ZGFzLXByaWVzdC9famNyX2NvbnRlbnQvY2FyZHMvY2FyZC9pbWFnZQ"
+    }
+}, {
+    "url": "/api/v1/events/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3BsYW5ldF9ob2xseXdvb2QvcGh2L2VuL2NyaXNzLWFuZ2Vs",
+    "webUrl": "https://www.caesars.com/planet-hollywood/shows/criss-angel",
+    "seatingChart": "/content/dam/phv/Shows/criss-angel/phv-crissangel-seatmap.jpg",
+    "prices": "Starting at $58 (Plus tax & fees)",
+    "ibeBookable": false,
+    "address": {
+        "street": "3667 Las Vegas Boulevard South",
+        "city": "Las Vegas",
+        "state": "NV",
+        "zip": "89109"
+    },
+    "category": {
+        "id": "magic",
+        "name": "Magic"
+    },
+    "preferenceId": "32659",
+    "price": "58",
+    "venue": {
+        "name": "Criss Angel Theater"
+    },
+    "dates": [{
+        "start": "2020-12-31",
+        "end": "2021-01-03",
+        "times": ["7:00 PM"],
+        "days": [6, 5]
+    }, {
+        "start": "2021-01-19",
+        "end": "2021-02-08",
+        "times": ["7:00 PM"],
+        "days": [6, 5, 0, 3, 4]
+    }, {
+        "start": "2021-02-23",
+        "end": "2021-03-15",
+        "times": ["7:00 PM"],
+        "days": [6, 5, 0, 3, 4]
+    }, {
+        "start": "2021-03-23",
+        "end": "2021-05-17",
+        "blackouts": ["2020-04-03"],
+        "times": ["7:00 PM"],
+        "days": [6, 5, 0, 3, 4]
+    }, {
+        "start": "2021-05-25",
+        "end": "2021-06-28",
+        "times": ["7:00 PM"],
+        "days": [6, 5, 0, 3, 4]
+    }],
+    "attractionId": "K8vZ917fsQ0",
+    "venueId": "KovZ917A2F0",
+    "name": "Criss Angel MINDFREAK",
+    "propertyName": "Planet Hollywood",
+    "property": "phv",
+    "market": "lvm",
+    "propertyRank": 7,
+    "marketRank": 8,
+    "featuredImage": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3BsYW5ldF9ob2xseXdvb2QvcGh2L2VuL2NyaXNzLWFuZ2VsL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ZlYXR1cmVkSW1hZ2U"
+    },
+    "summary": "World-renowned illusionist Criss Angel returns to his original Las Vegas stage and unveils “Criss Angel MINDFREAK,” an ALL NEW production and immersive evolution of magic. Live at the newly-named Criss Angel Theater at Planet Hollywood Resort & Casino!",
+    "location": {
+        "latitude": 36.110245,
+        "longitude": -115.169915,
+        "minLatitude": 36.108253,
+        "maxLatitude": 36.111222,
+        "minLongitude": -115.167714,
+        "maxLongitude": -115.172773
+    },
+    "thumbnail": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3BsYW5ldF9ob2xseXdvb2QvcGh2L2VuL2NyaXNzLWFuZ2VsL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdl"
+    }
+}, {
+    "url": "/api/v1/events/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3BsYW5ldF9ob2xseXdvb2QvcGh2L2VuL2lsdW1pbmF0ZQ",
+    "webUrl": "https://www.caesars.com/planet-hollywood/shows/iluminate",
+    "prices": "Starting at $69 (plus taxes & fees) ",
+    "ibeBookable": false,
+    "address": {
+        "street": "3667 Las Vegas Boulevard South",
+        "city": "Las Vegas",
+        "state": "NV",
+        "zip": "89109"
+    },
+    "category": {
+        "id": "production",
+        "name": "Production"
+    },
+    "price": "69",
+    "venue": {
+        "name": "Sin City Theater "
+    },
+    "dates": [],
+    "attractionId": "K8vZ917bcBf",
+    "venueId": "KovZpZAJalJA",
+    "name": "Happy Hour The Show by Iluminate ",
+    "propertyName": "Planet Hollywood",
+    "property": "phv",
+    "market": "lvm",
+    "propertyRank": 9,
+    "marketRank": 30,
+    "featuredImage": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3BsYW5ldF9ob2xseXdvb2QvcGh2L2VuL2lsdW1pbmF0ZS9famNyX2NvbnRlbnQvY2FyZHMvY2FyZC9mZWF0dXJlZEltYWdl"
+    },
+    "summary": "From America's Got Talent to the Las Vegas Strip - new production show set to shine at Sin City Theater.",
+    "location": {
+        "latitude": 36.112573,
+        "longitude": -115.170633,
+        "minLatitude": 36.108253,
+        "maxLatitude": 36.111222,
+        "minLongitude": -115.167714,
+        "maxLongitude": -115.172773
+    },
+    "thumbnail": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3BsYW5ldF9ob2xseXdvb2QvcGh2L2VuL2lsdW1pbmF0ZS9famNyX2NvbnRlbnQvY2FyZHMvY2FyZC9pbWFnZQ"
+    }
+}, {
+    "url": "/api/v1/events/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3BhcmlzL3Bsdi9lbi9tb3JlLWx2LXNob3dz",
+    "ibeBookable": false,
+    "address": {
+        "street": "3655 Las Vegas Boulevard South",
+        "city": "Las Vegas",
+        "state": "NV",
+        "zip": "89109"
+    },
+    "category": {
+        "id": "show",
+        "name": "Show"
+    },
+    "preferenceId": "33013",
+    "dates": [],
+    "name": "More Las Vegas Shows",
+    "propertyName": "Paris Las Vegas",
+    "property": "plv",
+    "market": "lvm",
+    "propertyRank": 100,
+    "marketRank": 1000,
+    "summary": "The best shows from the biggest superstars reside within Caesars Entertainment’s Las Vegas resorts. From music to magic and worldwide headliners like Gwen Stefani, Christina Aguilera, Sting, Mariah Carey and more, we have it all. Check out our Las Vegas entertainment calendar.",
+    "location": {
+        "latitude": 36.112573,
+        "longitude": -115.170633,
+        "minLatitude": 36.111435,
+        "maxLatitude": 36.113081,
+        "minLongitude": -115.167682,
+        "maxLongitude": -115.172725
+    },
+    "thumbnail": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3BhcmlzL3Bsdi9lbi9tb3JlLWx2LXNob3dzL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdl"
+    }
+}, {
+    "url": "/api/v1/events/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3BhcmlzL3Bsdi9lbi9mcmllbmRzX211c2ljYWxfcGFyb2R5",
+    "webUrl": "https://www.caesars.com/paris-las-vegas/shows/friends-musical-parody",
+    "prices": "Starting at $46.82 (plus taxes & fees) ",
+    "ibeBookable": true,
+    "address": {
+        "street": "3655 Las Vegas Boulevard South",
+        "city": "Las Vegas",
+        "state": "NV",
+        "zip": "89109"
+    },
+    "category": {
+        "id": "comedy",
+        "name": "Comedy"
+    },
+    "preferenceId": "30838",
+    "price": "46.82",
+    "venue": {
+        "name": "Anthony Cools Showroom"
+    },
+    "dates": [],
+    "attractionId": "K8vZ9179YP0",
+    "venueId": "KovZpZAEkIJA",
+    "name": "FRIENDS! The Musical Parody ",
+    "propertyName": "Paris Las Vegas",
+    "property": "plv",
+    "market": "lvm",
+    "propertyRank": 2,
+    "marketRank": 30,
+    "featuredImage": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3BhcmlzL3Bsdi9lbi9mcmllbmRzX211c2ljYWxfcGFyb2R5L19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ZlYXR1cmVkSW1hZ2U"
+    },
+    "summary": "PIVOT! Your favorite New York pals take their hit show FRIENDS! The Musical Parody to Paris Las Vegas.",
+    "location": {
+        "latitude": 36.112573,
+        "longitude": -115.170633,
+        "minLatitude": 36.111435,
+        "maxLatitude": 36.113081,
+        "minLongitude": -115.167682,
+        "maxLongitude": -115.172725
+    },
+    "thumbnail": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3BhcmlzL3Bsdi9lbi9mcmllbmRzX211c2ljYWxfcGFyb2R5L19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdl"
+    }
+}, {
+    "url": "/api/v1/events/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3BhcmlzL3Bsdi9lbi9zZXgtdGlwcy1uZXc",
+    "webUrl": "https://www.caesars.com/paris-las-vegas/shows/sex-tips",
+    "seatingChart": "/content/dam/plv/Shows/sex-tips/2018ScheanaChester/st-18-0123__seating_chart_.pdf",
+    "prices": "Starting at $49, Preferred Seating: $69+ VIP Seating: $89+",
+    "ibeBookable": false,
+    "address": {
+        "street": "3655 Las Vegas Boulevard South",
+        "city": "Las Vegas",
+        "state": "NV",
+        "zip": "89109"
+    },
+    "category": {
+        "id": "adultshow",
+        "name": "Adult Show"
+    },
+    "price": "49,",
+    "venue": {
+        "name": "Anthony Cools Showroom"
+    },
+    "dates": [],
+    "attractionId": "K8vZ9174WZV",
+    "venueId": "KovZpZAEkIJA",
+    "name": "Sex Tips for Straight Women from a Gay Man",
+    "propertyName": "Paris Las Vegas",
+    "property": "plv",
+    "market": "lvm",
+    "propertyRank": 3,
+    "marketRank": 29,
+    "summary": "Voted best comedy for couples, Sex Tips for Straight Women from a Gay Man has been praised by Las Vegas Magazine as a night of \"Big laughs and naughty fun!\"  Las Vegas Review-Journal raves Sex Tips is a \"Laugh-out-loud hilarious and wild show!\"  Get your tickets, and your tips, today!",
+    "location": {
+        "latitude": 36.112573,
+        "longitude": -115.170633,
+        "minLatitude": 36.111435,
+        "maxLatitude": 36.113081,
+        "minLongitude": -115.167682,
+        "maxLongitude": -115.172725
+    },
+    "thumbnail": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3BhcmlzL3Bsdi9lbi9zZXgtdGlwcy1uZXcvX2pjcl9jb250ZW50L2NhcmRzL2NhcmQvaW1hZ2U"
+    }
+}, {
+    "url": "/api/v1/events/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3BhcmlzL3Bsdi9lbi9hbnRob255X2Nvb2xz",
+    "webUrl": "https://www.caesars.com/paris-las-vegas/shows/anthony-cools",
+    "prices": "$56.25 GA, $72.42 VIP, $89.77 Ultra VIP (All prices inclusive of tax and fees)",
+    "ibeBookable": true,
+    "address": {
+        "street": "3655 Las Vegas Boulevard South",
+        "city": "Las Vegas",
+        "state": "NV",
+        "zip": "89109"
+    },
+    "category": {
+        "id": "adult",
+        "name": "Adult"
+    },
+    "images": [{
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3BhcmlzL3Bsdi9lbi9hbnRob255X2Nvb2xzL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczE",
+        "title": "An intimate performance space"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3BhcmlzL3Bsdi9lbi9hbnRob255X2Nvb2xzL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczI",
+        "title": "Good, clean, dirty fun"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3BhcmlzL3Bsdi9lbi9hbnRob255X2Nvb2xzL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczM",
+        "title": "High-energy performances"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3BhcmlzL3Bsdi9lbi9hbnRob255X2Nvb2xzL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczQ",
+        "title": "Longest-running hypnotist show in Las Vegas"
+    }],
+    "preferenceId": "30838",
+    "price": "56.25",
+    "venue": {
+        "name": "Anthony Cools Showroom"
+    },
+    "dates": [],
+    "attractionId": "K8vZ9175op0",
+    "venueId": "KovZpZAEkIJA",
+    "name": "Anthony Cools",
+    "propertyName": "Paris Las Vegas",
+    "property": "plv",
+    "market": "lvm",
+    "propertyRank": 3,
+    "marketRank": 25,
+    "featuredImage": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3BhcmlzL3Bsdi9lbi9hbnRob255X2Nvb2xzL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ZlYXR1cmVkSW1hZ2U"
+    },
+    "summary": "R-rated comedy Las Vegas hypnotist Anthony Cools puts the audience of his show in touch with their deepest desires in this hilarious adult show.",
+    "location": {
+        "latitude": 36.112573,
+        "longitude": -115.170633,
+        "minLatitude": 36.111435,
+        "maxLatitude": 36.113081,
+        "minLongitude": -115.167682,
+        "maxLongitude": -115.172725
+    },
+    "thumbnail": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3BhcmlzL3Bsdi9lbi9hbnRob255X2Nvb2xzL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdl"
+    }
+}, {
+    "url": "/api/v1/events/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL0dsb2JhbC9sdm1fZXZlbnRfY2FsZW5kYXI",
+    "ibeBookable": false,
+    "category": {
+        "id": "show",
+        "name": "Show"
+    },
+    "dates": [],
+    "name": "Full Event Calendar",
+    "property": "all",
+    "market": "lvm",
+    "propertyRank": 100,
+    "marketRank": 30,
+    "featuredImage": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL0dsb2JhbC9sdm1fZXZlbnRfY2FsZW5kYXIvX2pjcl9jb250ZW50L2NhcmRzL2NhcmQvZmVhdHVyZWRJbWFnZQ"
+    },
+    "summary": "Find out the performance dates and times of all our amazing Las Vegas shows in one convenient calendar.",
+    "thumbnail": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL0dsb2JhbC9sdm1fZXZlbnRfY2FsZW5kYXIvX2pjcl9jb250ZW50L2NhcmRzL2NhcmQvaW1hZ2U"
+    }
+}, {
+    "url": "/api/v1/events/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3RoZV9xdWFkL2lsdi9lbi9qaW1teS1raW1tZWxzLWNvbWVkeS1jbHVi",
+    "webUrl": "https://www.caesars.com/linq/promenade/things-to-do/jimmy-kimmels-comedy-club",
+    "seatingChart": "/content/dam/ilv/Shows/jimmy-kimmels-comedy-club/jkccmap.jpg",
+    "prices": "Tickets starting from $20 - $39 (plus taxes & fees)",
+    "ibeBookable": false,
+    "category": {
+        "id": "comedy",
+        "name": "Comedy"
+    },
+    "images": [{
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3RoZV9xdWFkL2lsdi9lbi9qaW1teS1raW1tZWxzLWNvbWVkeS1jbHViL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczE",
+        "title": "Live Comedy Nightly"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3RoZV9xdWFkL2lsdi9lbi9qaW1teS1raW1tZWxzLWNvbWVkeS1jbHViL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczEx",
+        "title": "Mini Burgers on King's Hawaiian Roll \"Sliders\""
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3RoZV9xdWFkL2lsdi9lbi9qaW1teS1raW1tZWxzLWNvbWVkeS1jbHViL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczI",
+        "title": "Bar Open Daily"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3RoZV9xdWFkL2lsdi9lbi9qaW1teS1raW1tZWxzLWNvbWVkeS1jbHViL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczM",
+        "title": "Neon Boneyard"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3RoZV9xdWFkL2lsdi9lbi9qaW1teS1raW1tZWxzLWNvbWVkeS1jbHViL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczQ",
+        "title": "Bar Open Daily"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3RoZV9xdWFkL2lsdi9lbi9qaW1teS1raW1tZWxzLWNvbWVkeS1jbHViL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczQx",
+        "title": "\"Loaded\" Hatch Chile & Smoked Brisket Chili Fries"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3RoZV9xdWFkL2lsdi9lbi9qaW1teS1raW1tZWxzLWNvbWVkeS1jbHViL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczU",
+        "title": "Uncle Frank"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3RoZV9xdWFkL2lsdi9lbi9qaW1teS1raW1tZWxzLWNvbWVkeS1jbHViL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczY",
+        "title": "Mini Hot Dogs"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3RoZV9xdWFkL2lsdi9lbi9qaW1teS1raW1tZWxzLWNvbWVkeS1jbHViL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczg",
+        "title": "Exactly Six Nachos"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3RoZV9xdWFkL2lsdi9lbi9qaW1teS1raW1tZWxzLWNvbWVkeS1jbHViL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczk",
+        "title": "Top of Sahara"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3RoZV9xdWFkL2lsdi9lbi9qaW1teS1raW1tZWxzLWNvbWVkeS1jbHViL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczEw",
+        "title": "Aunt Chippy"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3RoZV9xdWFkL2lsdi9lbi9qaW1teS1raW1tZWxzLWNvbWVkeS1jbHViL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczEy",
+        "title": "Guillermo"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3RoZV9xdWFkL2lsdi9lbi9qaW1teS1raW1tZWxzLWNvbWVkeS1jbHViL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczc",
+        "title": "Grand Opening"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3RoZV9xdWFkL2lsdi9lbi9qaW1teS1raW1tZWxzLWNvbWVkeS1jbHViL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczkx",
+        "title": "Jimmy Kimmel on Grand Opening night "
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3RoZV9xdWFkL2lsdi9lbi9qaW1teS1raW1tZWxzLWNvbWVkeS1jbHViL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczEz",
+        "title": "Grand Opening Acts: Sarah Silverman, Chris Tucker & Pete Holmes"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3RoZV9xdWFkL2lsdi9lbi9qaW1teS1raW1tZWxzLWNvbWVkeS1jbHViL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczE0",
+        "title": "Jill Kimmel on Grand Opening night "
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3RoZV9xdWFkL2lsdi9lbi9qaW1teS1raW1tZWxzLWNvbWVkeS1jbHViL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczE1",
+        "title": "Guillermo on Grand Opening night "
+    }],
+    "price": "20",
+    "venue": {
+        "name": "Located across from Brooklyn Bowl and near the High Roller - the tallest observation wheel in the world."
+    },
+    "dates": [],
+    "venueId": "KovZ917AOfZ",
+    "name": "Jimmy Kimmel's Comedy Club -Temporarily Closed",
+    "property": "lnq",
+    "market": "lvm",
+    "propertyRank": 99,
+    "marketRank": 30,
+    "summary": "Late-night trendsetter, Jimmy Kimmel, hosts some of the most hilarious comedy acts, alongside tasty bites and craft cocktails.",
+    "location": {
+        "latitude": 36.117671,
+        "longitude": -115.169398
+    },
+    "thumbnail": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3RoZV9xdWFkL2lsdi9lbi9qaW1teS1raW1tZWxzLWNvbWVkeS1jbHViL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdl"
+    }
+}, {
+    "url": "/api/v1/events/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3RoZV9xdWFkL2lsdi9lbi9tYXRfZnJhbmNv",
+    "webUrl": "https://www.caesars.com/linq/shows/mat-franco.html",
+    "ticketsUrl": "http://www.ticketmaster.com/Mat-Franco-tickets/artist/2080963?tm_link=artist_artistvenue_module&camefrom=CFC_CAESARSENT_ILV_MatFrancoMagicReinventedNightly",
+    "prices": "Starting at $59 (plus tax & fees)",
+    "ibeBookable": false,
+    "address": {
+        "street": "3535 Las Vegas Blvd South",
+        "city": "Las Vegas",
+        "state": "NV",
+        "zip": "89109"
+    },
+    "category": {
+        "id": "magic",
+        "name": "Magic"
+    },
+    "preferenceId": "12989",
+    "price": "59",
+    "venue": {
+        "name": "Mat Franco Theater"
+    },
+    "dates": [{
+        "start": "2020-12-16",
+        "end": "2021-01-04",
+        "times": ["7:00 PM"],
+        "days": [6, 5, 1, 0, 4]
+    }],
+    "attractionId": "K8vZ917KQfV",
+    "venueId": "KovZpZAJaJ7A",
+    "name": "Mat Franco Magic Reinvented Nightly",
+    "propertyName": "The LINQ Hotel + Experience",
+    "property": "ilv",
+    "market": "lvm",
+    "propertyRank": 1,
+    "marketRank": 5,
+    "featuredImage": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3RoZV9xdWFkL2lsdi9lbi9tYXRfZnJhbmNvL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ZlYXR1cmVkSW1hZ2U"
+    },
+    "summary": "Mat Franco isn't a typical magician. The America’s Got Talent winner dazzles with interactive illusions that could make you part of the show.",
+    "location": {
+        "latitude": 36.118386,
+        "longitude": -115.170382,
+        "minLatitude": 36.117365,
+        "maxLatitude": 36.118366,
+        "minLongitude": -115.168613,
+        "maxLongitude": -115.172701
+    },
+    "thumbnail": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3RoZV9xdWFkL2lsdi9lbi9tYXRfZnJhbmNvL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdl"
+    },
+    "youtubeVideos": ["https://www.youtube.com/embed/C_N7Nm7aYSk"]
+}, {
+    "url": "/api/v1/events/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3RoZV9xdWFkL2lsdi9qaW1teS1raW1tZWxzLWNvbWVkeS1jbHViL2VuL2x1ZW5lbGw",
+    "webUrl": "https://www.caesars.com/linq/promenade/things-to-do/jimmy-kimmels-comedy-club",
+    "ibeBookable": false,
+    "address": {
+        "street": "3535 Las Vegas Blvd South",
+        "city": "Las Vegas",
+        "state": "NV",
+        "zip": "89109"
+    },
+    "category": {
+        "id": "comedy",
+        "name": "Comedy"
+    },
+    "dates": [],
+    "attractionId": "K8vZ917CTx0",
+    "venueId": "KovZ917AOfZ",
+    "name": "Luenell At Jimmy Kimmel's Comedy Club",
+    "propertyName": "The LINQ Hotel + Experience",
+    "property": "ilv",
+    "market": "lvm",
+    "propertyRank": 4,
+    "marketRank": 30,
+    "summary": "Sundays at 10pm: Luenell may be small in stature, but she more than makes up for it with her big personality. If she’s in the room, you’ll know it. Her booming voice and infectious laugh is a dead giveaway that you’re in her midst. Easily recognizable for her signature look – her platinum blonde Caesar haircut, beautifully manicured long nails and a blinged-out pimp cup in hand – Luenell, has been thrilling audiences with her brand of comedy for almost 30 years. She calls herself the “Original Bad Girl of Comedy.”",
+    "location": {
+        "latitude": 36.117701,
+        "longitude": -115.169374,
+        "minLatitude": 36.117365,
+        "maxLatitude": 36.118366,
+        "minLongitude": -115.168613,
+        "maxLongitude": -115.172701
+    },
+    "thumbnail": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3RoZV9xdWFkL2lsdi9qaW1teS1raW1tZWxzLWNvbWVkeS1jbHViL2VuL2x1ZW5lbGwvX2pjcl9jb250ZW50L2NhcmRzL2NhcmQvaW1hZ2U"
+    }
+}, {
+    "url": "/api/v1/events/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3RoZV9xdWFkL2lsdi9qaW1teS1raW1tZWxzLWNvbWVkeS1jbHViL2VuL2w4bml0ZQ",
+    "webUrl": "https://www.caesars.com/linq/promenade/things-to-do/jimmy-kimmels-comedy-club",
+    "ibeBookable": false,
+    "address": {
+        "street": "3535 Las Vegas Blvd South",
+        "city": "Las Vegas",
+        "state": "NV",
+        "zip": "89109"
+    },
+    "category": {
+        "id": "comedy",
+        "name": "Comedy"
+    },
+    "dates": [],
+    "attractionId": "K8vZ917bIh7",
+    "venueId": "KovZ917AOfZ",
+    "name": "L8nite at Jimmy Kimmel's Comedy Club ",
+    "propertyName": "The LINQ Hotel + Experience",
+    "property": "ilv",
+    "market": "lvm",
+    "propertyRank": 100,
+    "marketRank": 30,
+    "summary": "Saturdays at midnight: L8NITE will be a place for guests to enjoy laughs, libations and a hilarious lineup of standup comedy for only $20, which includes free parking at The LINQ Promenade for locals when presenting a valid Nevada ID. L8NITErs will also enjoy special pricing from the happy hour menu on signature drinks cocktails. Each 80-minute L8NITE set will include three acts - a host, a featured comic, and a headlining comic that will be booked on a rotating basis. Guests should leave their inhibitions and expectations at the door as each night will feature different comedians on showcase, many of them local, with an anything goes Las Vegas vibe. L8NITE is an homage to the Emmy Award-winning television host and famous Las Vegan, Jimmy Kimmel, and his high school vanity license plate that also read “L8NITE.” What started off as a driver’s daydream has become a residency at his comedy club.",
+    "location": {
+        "latitude": 36.117701,
+        "longitude": -115.169374,
+        "minLatitude": 36.117365,
+        "maxLatitude": 36.118366,
+        "minLongitude": -115.168613,
+        "maxLongitude": -115.172701
+    },
+    "thumbnail": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3RoZV9xdWFkL2lsdi9qaW1teS1raW1tZWxzLWNvbWVkeS1jbHViL2VuL2w4bml0ZS9famNyX2NvbnRlbnQvY2FyZHMvY2FyZC9pbWFnZQ"
+    }
+}, {
+    "url": "/api/v1/events/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3RoZV9xdWFkL2lsdi9icm9va2x5bi1ib3dsL21hcmluYQ",
+    "ticketsUrl": "https://www.ticketweb.com/event/marina-brooklyn-bowl-las-vegas-tickets/10408475?pl=bblv",
+    "ibeBookable": false,
+    "category": {
+        "id": "concert",
+        "name": "Concert"
+    },
+    "dates": [],
+    "name": "Marina",
+    "property": "lnq",
+    "market": "lvm",
+    "propertyRank": 100,
+    "marketRank": 30,
+    "summary": "Her debut studio album, The Family Jewels (2010), incorporates indie pop and new wave musical styles. It entered the UK Albums Chart at number five and was certified gold by the British Phonographic Industry. The album's second single, \"Hollywood\", peaked at number 12 on the UK Singles Chart. Her follow-up record, Electra Heart (2012), is a concept album about a character of the same name which became her first number-one project in the UK. The album was certified gold in the US and UK, with its singles \"Primadonna\" and \"How to Be a Heartbreaker\" becoming international hits.",
+    "thumbnail": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3RoZV9xdWFkL2lsdi9icm9va2x5bi1ib3dsL21hcmluYS9famNyX2NvbnRlbnQvY2FyZHMvY2FyZC9pbWFnZQ"
+    }
+}, {
+    "url": "/api/v1/events/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3Jpby9ybHYvZW4vbW9yZS1sdi1zaG93cw",
+    "ibeBookable": false,
+    "address": {
+        "street": "3700 W. Flamingo Road",
+        "city": "Las Vegas",
+        "state": "NV",
+        "zip": "89103"
+    },
+    "category": {
+        "id": "show",
+        "name": "Show"
+    },
+    "preferenceId": "32989",
+    "dates": [],
+    "name": "More Las Vegas Shows ",
+    "propertyName": "Rio All-Suite Hotel & Casino",
+    "property": "rlv",
+    "market": "lvm",
+    "propertyRank": 100,
+    "marketRank": 1000,
+    "summary": "Caesars Entertainment has been entertaining audiences with some of the biggest Las Vegas entertainers like like Gwen Stefani, Christina Aguilera, Sting, Mariah Carey and more. Learn more with our Las Vegas entertainment calendar.",
+    "location": {
+        "latitude": 36.117697,
+        "longitude": -115.188202,
+        "minLatitude": 36.115101,
+        "maxLatitude": 36.120942,
+        "minLongitude": -115.185192,
+        "maxLongitude": -115.189891
+    },
+    "thumbnail": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3Jpby9ybHYvZW4vbW9yZS1sdi1zaG93cy9famNyX2NvbnRlbnQvY2FyZHMvY2FyZC9pbWFnZQ"
+    }
+}, {
+    "url": "/api/v1/events/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3Jpby9ybHYvZW4vY29tZWR5LWNlbGxhcg",
+    "webUrl": "https://www.caesars.com/rio-las-vegas/shows/comedy-cellar",
+    "prices": "$55 | $45 | $35 | $25 (plus taxes & fees) ",
+    "ibeBookable": false,
+    "address": {
+        "street": "3700 W. Flamingo Road",
+        "city": "Las Vegas",
+        "state": "NV",
+        "zip": "89103"
+    },
+    "category": {
+        "id": "comedy",
+        "name": "Comedy"
+    },
+    "images": [{
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3Jpby9ybHYvZW4vY29tZWR5LWNlbGxhci9famNyX2NvbnRlbnQvY2FyZHMvY2FyZC9pbWFnZXMx",
+        "title": "The world famous marquee"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3Jpby9ybHYvZW4vY29tZWR5LWNlbGxhci9famNyX2NvbnRlbnQvY2FyZHMvY2FyZC9pbWFnZXMxMQ",
+        "title": "The Cellar "
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3Jpby9ybHYvZW4vY29tZWR5LWNlbGxhci9famNyX2NvbnRlbnQvY2FyZHMvY2FyZC9pbWFnZXMy",
+        "title": "Host Marc Cohen"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3Jpby9ybHYvZW4vY29tZWR5LWNlbGxhci9famNyX2NvbnRlbnQvY2FyZHMvY2FyZC9pbWFnZXMz",
+        "title": "Guest comedian Steve Byrne "
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3Jpby9ybHYvZW4vY29tZWR5LWNlbGxhci9famNyX2NvbnRlbnQvY2FyZHMvY2FyZC9pbWFnZXM0",
+        "title": "Creator and host of \"Roast Battle\"- Brian Moses "
+    }],
+    "preferenceId": "32162",
+    "price": "55",
+    "venue": {
+        "name": "Comedy Cellar"
+    },
+    "dates": [],
+    "attractionId": "K8vZ917pMrV",
+    "venueId": "KovZ917AQDH",
+    "name": "Comedy Cellar",
+    "propertyName": "Rio All-Suite Hotel & Casino",
+    "property": "rlv",
+    "market": "lvm",
+    "propertyRank": 4,
+    "marketRank": 30,
+    "featuredImage": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3Jpby9ybHYvZW4vY29tZWR5LWNlbGxhci9famNyX2NvbnRlbnQvY2FyZHMvY2FyZC9mZWF0dXJlZEltYWdl"
+    },
+    "summary": "For Comedy Lovers Only: Visit the longest-running and most successful comedy club in New York – without leaving Las Vegas.",
+    "location": {
+        "latitude": 36.117697,
+        "longitude": -115.188202,
+        "minLatitude": 36.115101,
+        "maxLatitude": 36.120942,
+        "minLongitude": -115.185192,
+        "maxLongitude": -115.189891
+    },
+    "thumbnail": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3Jpby9ybHYvZW4vY29tZWR5LWNlbGxhci9famNyX2NvbnRlbnQvY2FyZHMvY2FyZC9pbWFnZQ"
+    }
+}, {
+    "url": "/api/v1/events/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3Jpby9ybHYvZW4vcGVubl90ZWxsZXI",
+    "webUrl": "https://www.caesars.com/rio-las-vegas/shows/penn-and-teller",
+    "seatingChart": "/content/dam/rlv/Shows/Seatmap/PenAndTeller/Penn-and-Teller-at-Rio-Las-Vegas.jpg",
+    "prices": "Starting from $84.30 (Plus Tax and Fees)",
+    "ibeBookable": true,
+    "address": {
+        "street": "3700 W. Flamingo Road",
+        "city": "Las Vegas",
+        "state": "NV",
+        "zip": "89103"
+    },
+    "category": {
+        "id": "magic",
+        "name": "Magic"
+    },
+    "preferenceId": "12752",
+    "price": "84.30",
+    "venue": {
+        "name": "Penn & Teller Theater"
+    },
+    "dates": [],
+    "propertyIcon": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3Jpby9ybHYvZW4vcGVubl90ZWxsZXIvX2pjcl9jb250ZW50L2NhcmRzL2NhcmQvcHJvcGVydHlJY29u"
+    },
+    "shortAd": "short ad test",
+    "marketLocation": "marketing location test",
+    "attractionId": "K8vZ9171ohV",
+    "venueId": "KovZpZAJanEA",
+    "name": "Penn & Teller",
+    "propertyName": "Rio All-Suite Hotel & Casino",
+    "property": "rlv",
+    "market": "lvm",
+    "propertyRank": 1,
+    "marketRank": 7,
+    "featuredImage": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3Jpby9ybHYvZW4vcGVubl90ZWxsZXIvX2pjcl9jb250ZW50L2NhcmRzL2NhcmQvZmVhdHVyZWRJbWFnZQ"
+    },
+    "summary": "The Penn & Teller Las Vegas show is an edgy mix of comedy and magic involving knives, guns, fire, a gorilla and a showgirl.",
+    "location": {
+        "latitude": 36.118596,
+        "longitude": -115.18726,
+        "minLatitude": 36.115101,
+        "maxLatitude": 36.120942,
+        "minLongitude": -115.185192,
+        "maxLongitude": -115.189891
+    },
+    "thumbnail": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3Jpby9ybHYvZW4vcGVubl90ZWxsZXIvX2pjcl9jb250ZW50L2NhcmRzL2NhcmQvaW1hZ2U"
+    }
+}, {
+    "url": "/api/v1/events/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3Jpby9ybHYvZW4vd293",
+    "webUrl": "https://www.caesars.com/rio-las-vegas/shows/wow",
+    "prices": "Starting from $49 (plus tax and fees)",
+    "ibeBookable": false,
+    "address": {
+        "street": "3700 W. Flamingo Road",
+        "city": "Las Vegas",
+        "state": "NV",
+        "zip": "89103"
+    },
+    "category": {
+        "id": "variety",
+        "name": "Variety"
+    },
+    "preferenceId": "31309",
+    "price": "49",
+    "venue": {
+        "name": "Rio Showroom"
+    },
+    "dates": [],
+    "attractionId": "K8vZ917pGqf",
+    "venueId": "KovZpZAJaJFA",
+    "name": "WOW - The Vegas Spectacular",
+    "propertyName": "Rio All-Suite Hotel & Casino",
+    "property": "rlv",
+    "market": "lvm",
+    "propertyRank": 4,
+    "marketRank": 28,
+    "featuredImage": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3Jpby9ybHYvZW4vd293L19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ZlYXR1cmVkSW1hZ2U"
+    },
+    "summary": "A water spectacular of more than 30 artists, acrobats and dancers. They fly, flip, fold, dance and defy the imagination in a 180-degree theatrical setting that engages the audience from beginning to end with 3D multimedia projections, water walls, and holograms.",
+    "location": {
+        "latitude": 36.117697,
+        "longitude": -115.188202,
+        "minLatitude": 36.115101,
+        "maxLatitude": 36.120942,
+        "minLongitude": -115.185192,
+        "maxLongitude": -115.189891
+    },
+    "videos": ["https://caesars-video-output.s3.amazonaws.com/lvm/rio/wow4/web.mp4"],
+    "thumbnail": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3Jpby9ybHYvZW4vd293L19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdl"
+    }
+}, {
+    "url": "/api/v1/events/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3Jpby9ybHYvZW4vY2hpcHBlbmRhbGVz",
+    "webUrl": "https://www.caesars.com/rio-las-vegas/shows/chippendales",
+    "seatingChart": "/content/dam/rlv/Shows/Seatmap/chippendales-theater/Chippendales-Theater-at-Rio-Las-Vegas.jpg",
+    "prices": "Starting from $54.95 (Plus Tax & Fees)",
+    "ibeBookable": true,
+    "address": {
+        "street": "3700 W. Flamingo Road",
+        "city": "Las Vegas",
+        "state": "NV",
+        "zip": "89103"
+    },
+    "category": {
+        "id": "adult",
+        "name": "Adult"
+    },
+    "preferenceId": "13297",
+    "price": "54.95",
+    "venue": {
+        "name": "Chippendales Theater"
+    },
+    "dates": [],
+    "attractionId": "K8vZ9171JOV",
+    "venueId": "KovZpZAJaldA",
+    "name": "Chippendales",
+    "propertyName": "Rio All-Suite Hotel & Casino",
+    "property": "rlv",
+    "market": "lvm",
+    "propertyRank": 3,
+    "marketRank": 23,
+    "featuredImage": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3Jpby9ybHYvZW4vY2hpcHBlbmRhbGVzL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ZlYXR1cmVkSW1hZ2U"
+    },
+    "summary": "This is the ultimate Las Vegas girls’ night out, featuring physically perfect male dancers who delight the audience with a series of sexy routines.",
+    "location": {
+        "latitude": 36.117034,
+        "longitude": -115.185429,
+        "minLatitude": 36.115101,
+        "maxLatitude": 36.120942,
+        "minLongitude": -115.185192,
+        "maxLongitude": -115.189891
+    },
+    "thumbnail": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL3Jpby9ybHYvZW4vY2hpcHBlbmRhbGVzL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdl"
+    }
+}, {
+    "url": "/api/v1/events/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2ZsYW1pbmdvL2Zsdi9lbi9ydXBhdWxzLWRyYWctcmFjZS1saXZl",
+    "webUrl": "https://www.caesars.com/flamingo-las-vegas/shows/rupauls-drag-race-live",
+    "ticketsUrl": "https://www.ticketmaster.com/dragracevegas?camefrom=CFC_CAESARSENT_FLV_RuPaulsDragRaceLIVELasVegas",
+    "seatingChart": "/content/dam/flv/Shows/rupaul/flv-rupaul-seatmap.pdf",
+    "prices": "Starting at $49 (Plus Taxes & Fees)",
+    "ibeBookable": false,
+    "address": {
+        "street": "3555 Las Vegas Boulevard South",
+        "city": "Las Vegas",
+        "state": "NV",
+        "zip": "89109"
+    },
+    "category": {
+        "id": "production",
+        "name": "Production"
+    },
+    "price": "49",
+    "venue": {
+        "name": "Flamingo Showroom"
+    },
+    "dates": [{
+        "start": "2021-01-27",
+        "end": "2021-09-28",
+        "blackouts": ["2021-01-27"],
+        "times": ["9:00 PM"],
+        "days": [6, 5, 0, 3, 4]
+    }],
+    "attractionId": "K8vZ9178HlV",
+    "venueId": "KovZpZAJanIA",
+    "name": "RuPaul's Drag Race LIVE! Las Vegas",
+    "propertyName": "Flamingo Las Vegas",
+    "property": "flv",
+    "market": "lvm",
+    "propertyRank": 2,
+    "marketRank": 14,
+    "featuredImage": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2ZsYW1pbmdvL2Zsdi9lbi9ydXBhdWxzLWRyYWctcmFjZS1saXZlL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ZlYXR1cmVkSW1hZ2U"
+    },
+    "summary": "RuPaul’s Drag Race LIVE! is an original production based on the Emmy Award-winning competition reality show. Join RuPaul's “showgirls\" as they journey through a sickening season of Drag Race serving Vegas realness! Starring the world’s most famous queens including Aquaria, Asia O'Hara, Derrick Barry, Eureka O'Hara, Kameron Michaels, Kim Chi, Naomi Smalls, Shea Couleé, and Yvie Oddly.",
+    "location": {
+        "latitude": 36.116623,
+        "longitude": -115.170802,
+        "minLatitude": 36.115218,
+        "maxLatitude": 36.117372,
+        "minLongitude": -115.16868,
+        "maxLongitude": -115.172741
+    },
+    "thumbnail": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2ZsYW1pbmdvL2Zsdi9lbi9ydXBhdWxzLWRyYWctcmFjZS1saXZlL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdl"
+    },
+    "youtubeVideos": ["https://www.youtube.com/embed/kmL3fdRBCRs"]
+}, {
+    "url": "/api/v1/events/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2ZsYW1pbmdvL2Zsdi9lbi9hbi1ldmVuaW5nLXdpdGgtd2hpdG5leS10aGUtd2hpdG5leS1ob3VzdG9uLWhvbG9ncmFtLWNvbmNlcnQ",
+    "webUrl": "https://www.caesars.com/flamingo-las-vegas/shows/an-evening-with-whitney-the-whitney-houston-hologram-concert",
+    "prices": "Starting at $39 (Plus Taxes & Fees)",
+    "ibeBookable": false,
+    "address": {
+        "street": "3555 Las Vegas Boulevard South",
+        "city": "Las Vegas",
+        "state": "NV",
+        "zip": "89109"
+    },
+    "category": {
+        "id": "concert",
+        "name": "Concert"
+    },
+    "price": "39",
+    "venue": {
+        "name": "Flamingo Showroom"
+    },
+    "dates": [],
+    "attractionId": "K8vZ917bVMf",
+    "venueId": "KovZpZAJanIA",
+    "name": "An Evening with Whitney: The Whitney Houston Hologram Concert",
+    "propertyName": "Flamingo Las Vegas",
+    "property": "flv",
+    "market": "lvm",
+    "propertyRank": 3,
+    "marketRank": 15,
+    "featuredImage": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2ZsYW1pbmdvL2Zsdi9lbi9hbi1ldmVuaW5nLXdpdGgtd2hpdG5leS10aGUtd2hpdG5leS1ob3VzdG9uLWhvbG9ncmFtLWNvbmNlcnQvX2pjcl9jb250ZW50L2NhcmRzL2NhcmQvZmVhdHVyZWRJbWFnZQ"
+    },
+    "summary": "An Evening with Whitney: The Whitney Houston Hologram Concert is an awe-inspiring live theatrical concert celebrating the incredible music and everlasting legacy of Whitney Houston.",
+    "location": {
+        "latitude": 36.116623,
+        "longitude": -115.170802,
+        "minLatitude": 36.115218,
+        "maxLatitude": 36.117372,
+        "minLongitude": -115.16868,
+        "maxLongitude": -115.172741
+    },
+    "thumbnail": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2ZsYW1pbmdvL2Zsdi9lbi9hbi1ldmVuaW5nLXdpdGgtd2hpdG5leS10aGUtd2hpdG5leS1ob3VzdG9uLWhvbG9ncmFtLWNvbmNlcnQvX2pjcl9jb250ZW50L2NhcmRzL2NhcmQvaW1hZ2U"
+    }
+}, {
+    "url": "/api/v1/events/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2ZsYW1pbmdvL2Zsdi9lbi9tb3JlLWx2LXNob3dz",
+    "ibeBookable": false,
+    "address": {
+        "street": "3555 Las Vegas Boulevard South",
+        "city": "Las Vegas",
+        "state": "NV",
+        "zip": "89109"
+    },
+    "category": {
+        "id": "show",
+        "name": "Show"
+    },
+    "preferenceId": "33013",
+    "dates": [],
+    "name": "More Las Vegas Shows",
+    "propertyName": "Flamingo Las Vegas",
+    "property": "flv",
+    "market": "lvm",
+    "propertyRank": 100,
+    "marketRank": 1000,
+    "summary": "The best Las Vegas entertainers make their home at Caesars Entertainment properties, with audience favorites like Gwen Stefani, Christina Aguilera, Sting, Mariah Carey and more. Learn who’s in town with our Las Vegas entertainment calendar.",
+    "location": {
+        "latitude": 36.116623,
+        "longitude": -115.170802,
+        "minLatitude": 36.115218,
+        "maxLatitude": 36.117372,
+        "minLongitude": -115.16868,
+        "maxLongitude": -115.172741
+    },
+    "thumbnail": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2ZsYW1pbmdvL2Zsdi9lbi9tb3JlLWx2LXNob3dzL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdl"
+    }
+}, {
+    "url": "/api/v1/events/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2ZsYW1pbmdvL2Zsdi9lbi9waWZmLXRoZS1tYWdpYy1kcmFnb24",
+    "webUrl": "https://www.caesars.com/flamingo-las-vegas/shows/piff-the-magic-dragon#.W0Of5NVKhhE",
+    "ticketsUrl": "http://www.ticketmaster.com/Piff-the-Magic-Dragon-Las-Vegas-tickets/artist/2281093?camefrom=CFC_CAESARSENT_FLV_Piff",
+    "prices": "Standard: $62.95, VIP: $103, Piff's Private Party: $50 Add-On (Plus Tax & Fees)",
+    "ibeBookable": true,
+    "address": {
+        "street": "3555 Las Vegas Boulevard South",
+        "city": "Las Vegas",
+        "state": "NV",
+        "zip": "89109"
+    },
+    "category": {
+        "id": "comedy",
+        "name": "Comedy"
+    },
+    "images": [{
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2ZsYW1pbmdvL2Zsdi9lbi9waWZmLXRoZS1tYWdpYy1kcmFnb24vX2pjcl9jb250ZW50L2NhcmRzL2NhcmQvaW1hZ2VzMQ"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2ZsYW1pbmdvL2Zsdi9lbi9waWZmLXRoZS1tYWdpYy1kcmFnb24vX2pjcl9jb250ZW50L2NhcmRzL2NhcmQvaW1hZ2VzMTE"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2ZsYW1pbmdvL2Zsdi9lbi9waWZmLXRoZS1tYWdpYy1kcmFnb24vX2pjcl9jb250ZW50L2NhcmRzL2NhcmQvaW1hZ2VzMg"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2ZsYW1pbmdvL2Zsdi9lbi9waWZmLXRoZS1tYWdpYy1kcmFnb24vX2pjcl9jb250ZW50L2NhcmRzL2NhcmQvaW1hZ2VzMw"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2ZsYW1pbmdvL2Zsdi9lbi9waWZmLXRoZS1tYWdpYy1kcmFnb24vX2pjcl9jb250ZW50L2NhcmRzL2NhcmQvaW1hZ2VzNA"
+    }],
+    "preferenceId": "29724",
+    "price": "62.95",
+    "venue": {
+        "name": "Flamingo Showroom"
+    },
+    "dates": [{
+        "start": "2020-11-23",
+        "end": "2020-12-21",
+        "blackouts": ["2020-11-01", "2020-11-08"],
+        "times": ["7:30 PM"],
+        "days": [6, 5, 0, 4]
+    }, {
+        "start": "2020-11-26",
+        "end": "2020-11-28",
+        "times": ["4:30 PM"],
+        "days": [5]
+    }, {
+        "start": "2020-12-23",
+        "end": "2021-01-01",
+        "blackouts": ["2020-12-23"],
+        "times": ["7:30 PM"],
+        "days": [1, 2, 3, 4]
+    }, {
+        "start": "2020-12-24",
+        "end": "2020-12-28",
+        "times": ["5:00 PM", "8:00 PM"],
+        "days": [6, 5, 0]
+    }, {
+        "start": "2020-12-30",
+        "end": "2021-01-01",
+        "times": ["11:00 PM"],
+        "days": [4]
+    }, {
+        "start": "2020-12-31",
+        "end": "2021-02-01",
+        "blackouts": ["2020-12-31", "2021-02-01"],
+        "times": ["7:30 PM"],
+        "days": [6, 5, 1, 0, 3, 4]
+    }, {
+        "start": "2021-01-31",
+        "end": "2021-03-01",
+        "blackouts": ["2021-01-31", "2021-03-01"],
+        "times": ["8:00 PM"],
+        "days": [6, 5, 1, 0, 3, 4]
+    }],
+    "attractionId": "K8vZ9174hC7",
+    "venueId": "KovZpZAJanIA",
+    "name": "Piff the Magic Dragon",
+    "propertyName": "Flamingo Las Vegas",
+    "property": "flv",
+    "market": "lvm",
+    "propertyRank": 1,
+    "marketRank": 2,
+    "featuredImage": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2ZsYW1pbmdvL2Zsdi9lbi9waWZmLXRoZS1tYWdpYy1kcmFnb24vX2pjcl9jb250ZW50L2NhcmRzL2NhcmQvZmVhdHVyZWRJbWFnZQ"
+    },
+    "summary": "Fresh from his success on “America’s Got Talent” and following record-breaking ticket sales throughout North America on his first US tour, Piff the Magic Dragon delights guests with his critically acclaimed show as a Las Vegas Strip headliner.",
+    "location": {
+        "latitude": 36.116623,
+        "longitude": -115.170802,
+        "minLatitude": 36.115218,
+        "maxLatitude": 36.117372,
+        "minLongitude": -115.16868,
+        "maxLongitude": -115.172741
+    },
+    "thumbnail": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2ZsYW1pbmdvL2Zsdi9lbi9waWZmLXRoZS1tYWdpYy1kcmFnb24vX2pjcl9jb250ZW50L2NhcmRzL2NhcmQvaW1hZ2U"
+    },
+    "youtubeVideos": ["https://www.youtube.com/embed/3uMmL6EaDPc"]
+}, {
+    "url": "/api/v1/events/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2ZsYW1pbmdvL2Zsdi9lbi94X2J1cmxlc3F1ZV8w",
+    "webUrl": "https://www.caesars.com/flamingo-las-vegas/shows/x-burlesque",
+    "seatingChart": "/content/dam/flv/Shows/Seatmap/x-showroom/X_Showroom_X_Burlesque.jpg",
+    "prices": "General: $56, VIP: $78, Pink Circle: $88 (Plus Taxes & Fees)",
+    "ibeBookable": true,
+    "address": {
+        "street": "3555 Las Vegas Boulevard South",
+        "city": "Las Vegas",
+        "state": "NV",
+        "zip": "89109"
+    },
+    "category": {
+        "id": "adult",
+        "name": "Adult"
+    },
+    "images": [{
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2ZsYW1pbmdvL2Zsdi9lbi94X2J1cmxlc3F1ZV8wL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczE"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2ZsYW1pbmdvL2Zsdi9lbi94X2J1cmxlc3F1ZV8wL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczEx"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2ZsYW1pbmdvL2Zsdi9lbi94X2J1cmxlc3F1ZV8wL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczI"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2ZsYW1pbmdvL2Zsdi9lbi94X2J1cmxlc3F1ZV8wL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczM"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2ZsYW1pbmdvL2Zsdi9lbi94X2J1cmxlc3F1ZV8wL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczY"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2ZsYW1pbmdvL2Zsdi9lbi94X2J1cmxlc3F1ZV8wL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczg"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2ZsYW1pbmdvL2Zsdi9lbi94X2J1cmxlc3F1ZV8wL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczEw"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2ZsYW1pbmdvL2Zsdi9lbi94X2J1cmxlc3F1ZV8wL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczQ"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2ZsYW1pbmdvL2Zsdi9lbi94X2J1cmxlc3F1ZV8wL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczU"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2ZsYW1pbmdvL2Zsdi9lbi94X2J1cmxlc3F1ZV8wL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczc"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2ZsYW1pbmdvL2Zsdi9lbi94X2J1cmxlc3F1ZV8wL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczgx"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2ZsYW1pbmdvL2Zsdi9lbi94X2J1cmxlc3F1ZV8wL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczk"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2ZsYW1pbmdvL2Zsdi9lbi94X2J1cmxlc3F1ZV8wL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczEy"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2ZsYW1pbmdvL2Zsdi9lbi94X2J1cmxlc3F1ZV8wL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczEz"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2ZsYW1pbmdvL2Zsdi9lbi94X2J1cmxlc3F1ZV8wL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczE0"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2ZsYW1pbmdvL2Zsdi9lbi94X2J1cmxlc3F1ZV8wL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczE1"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2ZsYW1pbmdvL2Zsdi9lbi94X2J1cmxlc3F1ZV8wL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczE2"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2ZsYW1pbmdvL2Zsdi9lbi94X2J1cmxlc3F1ZV8wL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczE3"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2ZsYW1pbmdvL2Zsdi9lbi94X2J1cmxlc3F1ZV8wL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczE4"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2ZsYW1pbmdvL2Zsdi9lbi94X2J1cmxlc3F1ZV8wL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczE5"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2ZsYW1pbmdvL2Zsdi9lbi94X2J1cmxlc3F1ZV8wL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdlczIw"
+    }],
+    "preferenceId": "12062",
+    "price": "56,",
+    "venue": {
+        "name": "The X Burlesque Theatre at Bugsy's Cabaret"
+    },
+    "dates": [],
+    "attractionId": "K8vZ9172zD0",
+    "venueId": "KovZpaF2Qe",
+    "name": "X Burlesque",
+    "propertyName": "Flamingo Las Vegas",
+    "property": "flv",
+    "market": "lvm",
+    "propertyRank": 4,
+    "marketRank": 30,
+    "featuredImage": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2ZsYW1pbmdvL2Zsdi9lbi94X2J1cmxlc3F1ZV8wL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ZlYXR1cmVkSW1hZ2U"
+    },
+    "summary": "Gorgeous women perform titillating routines to hot rock, country and R&B tracks in this red-hot Flamingo Las Vegas entertainment option just for grown-ups.",
+    "location": {
+        "latitude": 36.116351,
+        "longitude": -115.172291,
+        "minLatitude": 36.115218,
+        "maxLatitude": 36.117372,
+        "minLongitude": -115.16868,
+        "maxLongitude": -115.172741
+    },
+    "thumbnail": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2ZsYW1pbmdvL2Zsdi9lbi94X2J1cmxlc3F1ZV8wL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdl"
+    }
+}, {
+    "url": "/api/v1/events/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2ZsYW1pbmdvL2Zsdi9lbi94YnVfeF9idXJsZXNxdWVfdW5pdg",
+    "webUrl": "https://www.caesars.com/flamingo-las-vegas/shows/xbu-x-burlesque-university",
+    "seatingChart": "/content/dam/flv/Shows/Seatmap/x-showroom/X_Showroom_X_Burlesque.jpg",
+    "prices": "Starting From $44.95 (Plus Service Charge)",
+    "ibeBookable": true,
+    "address": {
+        "street": "3555 Las Vegas Boulevard South",
+        "city": "Las Vegas",
+        "state": "NV",
+        "zip": "89109"
+    },
+    "category": {
+        "id": "adult",
+        "name": "Adult"
+    },
+    "images": [{
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2ZsYW1pbmdvL2Zsdi9lbi94YnVfeF9idXJsZXNxdWVfdW5pdi9famNyX2NvbnRlbnQvY2FyZHMvY2FyZC9pbWFnZXMx"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2ZsYW1pbmdvL2Zsdi9lbi94YnVfeF9idXJsZXNxdWVfdW5pdi9famNyX2NvbnRlbnQvY2FyZHMvY2FyZC9pbWFnZXMxMQ"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2ZsYW1pbmdvL2Zsdi9lbi94YnVfeF9idXJsZXNxdWVfdW5pdi9famNyX2NvbnRlbnQvY2FyZHMvY2FyZC9pbWFnZXMy"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2ZsYW1pbmdvL2Zsdi9lbi94YnVfeF9idXJsZXNxdWVfdW5pdi9famNyX2NvbnRlbnQvY2FyZHMvY2FyZC9pbWFnZXMz"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2ZsYW1pbmdvL2Zsdi9lbi94YnVfeF9idXJsZXNxdWVfdW5pdi9famNyX2NvbnRlbnQvY2FyZHMvY2FyZC9pbWFnZXM0"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2ZsYW1pbmdvL2Zsdi9lbi94YnVfeF9idXJsZXNxdWVfdW5pdi9famNyX2NvbnRlbnQvY2FyZHMvY2FyZC9pbWFnZXM1"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2ZsYW1pbmdvL2Zsdi9lbi94YnVfeF9idXJsZXNxdWVfdW5pdi9famNyX2NvbnRlbnQvY2FyZHMvY2FyZC9pbWFnZXM2"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2ZsYW1pbmdvL2Zsdi9lbi94YnVfeF9idXJsZXNxdWVfdW5pdi9famNyX2NvbnRlbnQvY2FyZHMvY2FyZC9pbWFnZXM3"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2ZsYW1pbmdvL2Zsdi9lbi94YnVfeF9idXJsZXNxdWVfdW5pdi9famNyX2NvbnRlbnQvY2FyZHMvY2FyZC9pbWFnZXM4"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2ZsYW1pbmdvL2Zsdi9lbi94YnVfeF9idXJsZXNxdWVfdW5pdi9famNyX2NvbnRlbnQvY2FyZHMvY2FyZC9pbWFnZXM5"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2ZsYW1pbmdvL2Zsdi9lbi94YnVfeF9idXJsZXNxdWVfdW5pdi9famNyX2NvbnRlbnQvY2FyZHMvY2FyZC9pbWFnZXMxMA"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2ZsYW1pbmdvL2Zsdi9lbi94YnVfeF9idXJsZXNxdWVfdW5pdi9famNyX2NvbnRlbnQvY2FyZHMvY2FyZC9pbWFnZXMxMTE"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2ZsYW1pbmdvL2Zsdi9lbi94YnVfeF9idXJsZXNxdWVfdW5pdi9famNyX2NvbnRlbnQvY2FyZHMvY2FyZC9pbWFnZXMxMg"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2ZsYW1pbmdvL2Zsdi9lbi94YnVfeF9idXJsZXNxdWVfdW5pdi9famNyX2NvbnRlbnQvY2FyZHMvY2FyZC9pbWFnZXMxMw"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2ZsYW1pbmdvL2Zsdi9lbi94YnVfeF9idXJsZXNxdWVfdW5pdi9famNyX2NvbnRlbnQvY2FyZHMvY2FyZC9pbWFnZXMxNA"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2ZsYW1pbmdvL2Zsdi9lbi94YnVfeF9idXJsZXNxdWVfdW5pdi9famNyX2NvbnRlbnQvY2FyZHMvY2FyZC9pbWFnZXMxNQ"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2ZsYW1pbmdvL2Zsdi9lbi94YnVfeF9idXJsZXNxdWVfdW5pdi9famNyX2NvbnRlbnQvY2FyZHMvY2FyZC9pbWFnZXMxNg"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2ZsYW1pbmdvL2Zsdi9lbi94YnVfeF9idXJsZXNxdWVfdW5pdi9famNyX2NvbnRlbnQvY2FyZHMvY2FyZC9pbWFnZXMxNw"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2ZsYW1pbmdvL2Zsdi9lbi94YnVfeF9idXJsZXNxdWVfdW5pdi9famNyX2NvbnRlbnQvY2FyZHMvY2FyZC9pbWFnZXMxOA"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2ZsYW1pbmdvL2Zsdi9lbi94YnVfeF9idXJsZXNxdWVfdW5pdi9famNyX2NvbnRlbnQvY2FyZHMvY2FyZC9pbWFnZXMxOQ"
+    }],
+    "preferenceId": "12237",
+    "price": "44.95",
+    "venue": {
+        "name": "The X Burlesque Theatre at Bugsy’s Cabaret"
+    },
+    "dates": [],
+    "attractionId": "K8vZ9178F57",
+    "venueId": "KovZpaF2Qe",
+    "name": "XBU: X Burlesque University",
+    "propertyName": "Flamingo Las Vegas",
+    "property": "flv",
+    "market": "lvm",
+    "propertyRank": 5,
+    "marketRank": 30,
+    "featuredImage": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2ZsYW1pbmdvL2Zsdi9lbi94YnVfeF9idXJsZXNxdWVfdW5pdi9famNyX2NvbnRlbnQvY2FyZHMvY2FyZC9mZWF0dXJlZEltYWdl"
+    },
+    "summary": "Ever wonder how a showgirl gets her eyelashes to glimmer or how they can skillfully sashay in high heels? Guests at XBU – X Burlesque University learn these and other tips that go into achieving the subtle and sexy art of burlesque.",
+    "location": {
+        "latitude": 36.116342,
+        "longitude": -115.172296,
+        "minLatitude": 36.115218,
+        "maxLatitude": 36.117372,
+        "minLongitude": -115.16868,
+        "maxLongitude": -115.172741
+    },
+    "thumbnail": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2ZsYW1pbmdvL2Zsdi9lbi94YnVfeF9idXJsZXNxdWVfdW5pdi9famNyX2NvbnRlbnQvY2FyZHMvY2FyZC9pbWFnZQ"
+    }
+}, {
+    "url": "/api/v1/events/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2JhbGx5cy9ibHYvZW4vbW9yZS1sYXMtdmVnYXMtc2hvd3M",
+    "ibeBookable": false,
+    "address": {
+        "street": "3645 Las Vegas Boulevard South",
+        "city": "Las Vegas",
+        "state": "NV",
+        "zip": "89109"
+    },
+    "category": {
+        "id": "show",
+        "name": "Show"
+    },
+    "preferenceId": "33008",
+    "dates": [],
+    "name": "More Las Vegas Shows",
+    "propertyName": "Bally's Las Vegas",
+    "property": "blv",
+    "market": "lvm",
+    "propertyRank": 100,
+    "marketRank": 1000,
+    "summary": "Caesars Entertainment’s Las Vegas resorts keep audiences entertained with a variety of shows from comedy to concerts. Our resorts also boast top headliners like Gwen Stefani, Christina Aguilera, Sting, Mariah Carey and more. Find all the latest shows with our Las Vegas entertainment calendar.",
+    "location": {
+        "latitude": 36.114456,
+        "longitude": -115.170743,
+        "minLatitude": 36.113159,
+        "maxLatitude": 36.114542,
+        "minLongitude": -115.165944,
+        "maxLongitude": -115.172693
+    },
+    "thumbnail": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2JhbGx5cy9ibHYvZW4vbW9yZS1sYXMtdmVnYXMtc2hvd3MvX2pjcl9jb250ZW50L2NhcmRzL2NhcmQvaW1hZ2U"
+    }
+}, {
+    "url": "/api/v1/events/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2JhbGx5cy9ibHYvZW4veC1yb2Nrcw",
+    "webUrl": "https://www.caesars.com/ballys-las-vegas/shows/x-rocks",
+    "seatingChart": "/content/dam/blv/Shows/XRocks/x_rocks_new_seating_chart_11.21.17.pdf",
+    "prices": "Preferred Seating:$50, Rockstar VIP: $70 (Plus Taxes & Fees)",
+    "ibeBookable": true,
+    "address": {
+        "street": "3645 Las Vegas Boulevard South",
+        "city": "Las Vegas",
+        "state": "NV",
+        "zip": "89109"
+    },
+    "category": {
+        "id": "adult",
+        "name": "Adult"
+    },
+    "images": [{
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2JhbGx5cy9ibHYvZW4veC1yb2Nrcy9famNyX2NvbnRlbnQvY2FyZHMvY2FyZC9pbWFnZXMx"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2JhbGx5cy9ibHYvZW4veC1yb2Nrcy9famNyX2NvbnRlbnQvY2FyZHMvY2FyZC9pbWFnZXMz"
+    }, {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2JhbGx5cy9ibHYvZW4veC1yb2Nrcy9famNyX2NvbnRlbnQvY2FyZHMvY2FyZC9pbWFnZXM5MQ"
+    }],
+    "preferenceId": "31317",
+    "price": "50,",
+    "venue": {
+        "name": "The Back Room at Bally's Las Vegas"
+    },
+    "dates": [],
+    "attractionId": "K8vZ917oNS7",
+    "venueId": "KovZ917AfcV",
+    "name": "X Rocks",
+    "propertyName": "Bally's Las Vegas",
+    "property": "blv",
+    "market": "lvm",
+    "propertyRank": 8,
+    "marketRank": 30,
+    "featuredImage": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2JhbGx5cy9ibHYvZW4veC1yb2Nrcy9famNyX2NvbnRlbnQvY2FyZHMvY2FyZC9mZWF0dXJlZEltYWdl"
+    },
+    "summary": "X ROCKS is an all-rock, sexy topless revue. Starring the X Rocks Girls, we’ve taken some of the most powerful rock songs of all time and combined them with erotic, high-energy choreography and unbelievable sets.",
+    "location": {
+        "latitude": 36.114456,
+        "longitude": -115.170743,
+        "minLatitude": 36.113159,
+        "maxLatitude": 36.114542,
+        "minLongitude": -115.165944,
+        "maxLongitude": -115.172693
+    },
+    "thumbnail": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2JhbGx5cy9ibHYvZW4veC1yb2Nrcy9famNyX2NvbnRlbnQvY2FyZHMvY2FyZC9pbWFnZQ"
+    },
+    "youtubeVideos": ["https://www.youtube.com/embed/-j66pPcnlFE"]
+}, {
+    "url": "/api/v1/events/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2JhbGx5cy9ibHYvZW4vcGFyYW5vcm1hbA",
+    "webUrl": "https://www.caesars.com/ballys-las-vegas/shows/paranormal",
+    "seatingChart": "/content/dam/blv/Shows/Paranormal/seatmap/2620_sta_blv_paranormal_map_final__003_.pdf",
+    "prices": "Starting at $51 (Plus Tax & Fees)",
+    "ibeBookable": true,
+    "address": {
+        "street": "3645 Las Vegas Boulevard South",
+        "city": "Las Vegas",
+        "state": "NV",
+        "zip": "89109"
+    },
+    "category": {
+        "id": "magic",
+        "name": "Magic"
+    },
+    "preferenceId": "12205",
+    "price": "51",
+    "venue": {
+        "name": "The Magic Attic"
+    },
+    "dates": [],
+    "attractionId": "K8vZ9173JSV",
+    "venueId": "KovZpZAJalFA",
+    "name": "Paranormal - Mind Reading Magic",
+    "propertyName": "Bally's Las Vegas",
+    "property": "blv",
+    "market": "lvm",
+    "propertyRank": 5,
+    "marketRank": 30,
+    "featuredImage": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2JhbGx5cy9ibHYvZW4vcGFyYW5vcm1hbC9famNyX2NvbnRlbnQvY2FyZHMvY2FyZC9mZWF0dXJlZEltYWdl"
+    },
+    "summary": "The only thing you'll be sure of after seeing the show is that you'll never forget Frederic Da Silva.",
+    "location": {
+        "latitude": 36.113932,
+        "longitude": -115.170947,
+        "minLatitude": 36.113159,
+        "maxLatitude": 36.114542,
+        "minLongitude": -115.165944,
+        "maxLongitude": -115.172693
+    },
+    "thumbnail": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2JhbGx5cy9ibHYvZW4vcGFyYW5vcm1hbC9famNyX2NvbnRlbnQvY2FyZHMvY2FyZC9pbWFnZQ"
+    },
+    "youtubeVideos": ["https://www.youtube.com/embed/7cZdTuVlrNk"]
+}, {
+    "url": "/api/v1/events/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2JhbGx5cy9ibHYvZW4vZXh0cmF2YWdhbnph",
+    "webUrl": "https://www.caesars.com/ballys-las-vegas/shows/extravaganza",
+    "ticketsUrl": "https://www.ticketmaster.com/extravaganza-las-vegas-tickets/artist/2717765?camefrom=CFC_CAESARSENT_BLV_EXTRAVAGANZATheVegasSpectacular",
+    "prices": "Starting at $45.99 (plus taxes & fees) ",
+    "ibeBookable": false,
+    "address": {
+        "street": "3645 Las Vegas Boulevard South",
+        "city": "Las Vegas",
+        "state": "NV",
+        "zip": "89109"
+    },
+    "category": {
+        "id": "production",
+        "name": "Production"
+    },
+    "price": "45.99",
+    "venue": {
+        "name": "Jubilee Theater "
+    },
+    "dates": [{
+        "start": "2020-11-23",
+        "end": "2020-11-29",
+        "times": ["6:30 PM", "9:30 PM"],
+        "days": [6, 5, 1, 2, 3, 4]
+    }, {
+        "start": "2020-11-29",
+        "end": "2020-12-16",
+        "blackouts": ["2020-11-29"],
+        "times": ["6:30 PM", "9:30 PM"],
+        "days": [6, 5, 1, 2, 0, 4]
+    }, {
+        "start": "2020-12-17",
+        "end": "2021-01-07",
+        "blackouts": ["2020-12-17", "2020-12-31", "2021-01-07"],
+        "times": ["6:30 PM", "9:30 PM"],
+        "days": [6, 5, 1, 2, 0, 3, 4]
+    }, {
+        "start": "2020-12-30",
+        "end": "2021-01-01",
+        "times": ["5:00 PM", "8:00 PM"],
+        "days": [4]
+    }, {
+        "start": "2021-01-08",
+        "end": "2021-03-01",
+        "blackouts": ["2021-01-08", "2021-03-01"],
+        "times": ["6:30 PM", "9:30 PM"],
+        "days": [6, 5, 1, 2, 0, 4]
+    }],
+    "attractionId": "K8vZ917bm1V",
+    "venueId": "KovZpZAJanJA",
+    "name": "EXTRAVAGANZA – The Vegas Spectacular",
+    "propertyName": "Bally's Las Vegas",
+    "property": "blv",
+    "market": "lvm",
+    "propertyRank": 1,
+    "marketRank": 6,
+    "featuredImage": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2JhbGx5cy9ibHYvZW4vZXh0cmF2YWdhbnphL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ZlYXR1cmVkSW1hZ2U"
+    },
+    "summary": "Prepare to take a heart-stopping journey through the dazzling world of Las Vegas entertainment with the critically acclaimed production. This thrilling new Las Vegas production from the creators of “WOW – The Vegas Spectacular” and Caesars Entertainment makes its North American premiere on the iconic stage at the Jubilee Theater inside Bally’s Las Vegas.",
+    "location": {
+        "latitude": 36.114456,
+        "longitude": -115.170743,
+        "minLatitude": 36.113159,
+        "maxLatitude": 36.114542,
+        "minLongitude": -115.165944,
+        "maxLongitude": -115.172693
+    },
+    "thumbnail": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2JhbGx5cy9ibHYvZW4vZXh0cmF2YWdhbnphL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdl"
+    },
+    "youtubeVideos": ["https://www.youtube.com/embed/Ap4zZNRtENM"]
+}, {
+    "url": "/api/v1/events/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2JhbGx5cy9ibHYvZW4vcG90dGVkLXBvdHRlcg",
+    "webUrl": "https://www.caesars.com/ballys-las-vegas/shows/potted-potter",
+    "prices": "Starting at $36.99 (Plus Taxes & Fees)",
+    "ibeBookable": false,
+    "address": {
+        "street": "3645 Las Vegas Boulevard South",
+        "city": "Las Vegas",
+        "state": "NV",
+        "zip": "89109"
+    },
+    "category": {
+        "id": "comedy",
+        "name": "Comedy"
+    },
+    "price": "36.99",
+    "venue": {
+        "name": "The Magic Attic"
+    },
+    "dates": [],
+    "attractionId": "K8vZ917G_B7",
+    "venueId": "KovZpZAJalFA",
+    "name": "Potted Potter - Harry Potter Parody",
+    "propertyName": "Bally's Las Vegas",
+    "property": "blv",
+    "market": "lvm",
+    "propertyRank": 6,
+    "marketRank": 25,
+    "featuredImage": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2JhbGx5cy9ibHYvZW4vcG90dGVkLXBvdHRlci9famNyX2NvbnRlbnQvY2FyZHMvY2FyZC9mZWF0dXJlZEltYWdl"
+    },
+    "summary": "Written and performed by Olivier Award-nominated actors Daniel Clarkson and Jefferson Turner, the play takes on the ultimate challenge of condensing, or \"potting\", all seven Harry Potter books into seventy madcap minutes. Only at Bally's Las Vegas!",
+    "location": {
+        "latitude": 36.114456,
+        "longitude": -115.170743,
+        "minLatitude": 36.113159,
+        "maxLatitude": 36.114542,
+        "minLongitude": -115.165944,
+        "maxLongitude": -115.172693
+    },
+    "thumbnail": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2JhbGx5cy9ibHYvZW4vcG90dGVkLXBvdHRlci9famNyX2NvbnRlbnQvY2FyZHMvY2FyZC9pbWFnZQ"
+    },
+    "youtubeVideos": ["https://www.youtube.com/embed/wqp368lA81Q"]
+}, {
+    "url": "/api/v1/events/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2JhbGx5cy9ibHYvZW4veGF2aWVyLW1vcnRpbWVycy1tYWdpY2FsLWRyZWFt",
+    "webUrl": "https://www.caesars.com/ballys-las-vegas/shows/xavier-mortimers-magical-dream",
+    "seatingChart": "/content/dam/blv/Shows/xavier-mortimer/xavier-mortimer-windows-showroom-seatmap.jpg",
+    "prices": "Starting at $49 GA; $69 VIP (plus taxes and fees) ",
+    "ibeBookable": false,
+    "address": {
+        "street": "3645 Las Vegas Boulevard South",
+        "city": "Las Vegas",
+        "state": "NV",
+        "zip": "89109"
+    },
+    "category": {
+        "id": "magic",
+        "name": "Magic"
+    },
+    "price": "49",
+    "venue": {
+        "name": "The Magic Attic"
+    },
+    "dates": [],
+    "attractionId": "K8vZ9174ew0",
+    "venueId": "KovZpZAJalFA",
+    "name": "Xavier Mortimer's Magical Dream",
+    "propertyName": "Bally's Las Vegas",
+    "property": "blv",
+    "market": "lvm",
+    "propertyRank": 6,
+    "marketRank": 30,
+    "featuredImage": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2JhbGx5cy9ibHYvZW4veGF2aWVyLW1vcnRpbWVycy1tYWdpY2FsLWRyZWFtL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ZlYXR1cmVkSW1hZ2U"
+    },
+    "summary": "Xavier Mortimer's Magical Dream is unlike any other show in Las Vegas. Audiences enter the Magic Attic at Bally's Las Vegas only to find themselves immediately transported into Mortimer's dream world.",
+    "location": {
+        "latitude": 36.114456,
+        "longitude": -115.170743,
+        "minLatitude": 36.113159,
+        "maxLatitude": 36.114542,
+        "minLongitude": -115.165944,
+        "maxLongitude": -115.172693
+    },
+    "thumbnail": {
+        "url": "/api/v1/image/L2NvbnRlbnQvc2NhZmZvbGRfcGFnZXMvZXZlbnRzL2JhbGx5cy9ibHYvZW4veGF2aWVyLW1vcnRpbWVycy1tYWdpY2FsLWRyZWFtL19qY3JfY29udGVudC9jYXJkcy9jYXJkL2ltYWdl"
+    }
+}]

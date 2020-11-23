@@ -7,6 +7,17 @@
             }
         }
     }
+    .home__info {
+        display: flex;
+        text-align: center;
+        justify-content: center;
+        padding: 64px 32px;
+        max-width: 1200px;
+        margin: auto;
+        img {
+            height: 150px;
+        }
+    }
     .home__about {
         max-width: 1200px;
         margin: auto;

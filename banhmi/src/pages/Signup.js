@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import Logo from '../images/bread.png'
+import Logo from '../images/hotbread.png'
 import { Link, useHistory } from 'react-router-dom'
 import { auth } from '../firebase'
 
@@ -41,7 +41,7 @@ const Signup = () => {
                     <input type="text" id="email" name="email" placeholder="Email" value={email} onChange={e => setEmail(e.target.value)} />
                     <input type="password" id="password" name="password" placeholder="Password" value={password} onChange={e => setPassword(e.target.value)} />
                     <input type="password" id="passwordMatch" name="passwordMatch" placeholder="Confirm Password" value={passwordMatch} onChange={e => setPasswordMatch(e.target.value)} />
-                    {error}
+                    {error && <p>{error}</p>}
                     {<button onClick={register} >Create account</button>}
                 </form>
             </div>

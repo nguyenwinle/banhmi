@@ -44,7 +44,9 @@ const Nav = () => {
                         Breaking Bread</Link>
                 </div>
                 <div className="nav__nav right">
-
+                    <div className="header__name">
+                        <p>{user ? user.displayName : ''}</p>
+                    </div>
                     <Link to="/order">
                         <div className="nav__optionBasket">
                             <span className="nav__optionLine__count">
@@ -58,7 +60,7 @@ const Nav = () => {
             <div className={`navDrawer ${open ? '' : 'hide'}`}>
                 <ul>
                     <li>
-                        <FastfoodIcon />
+                        <HomeIcon />
                         <Link to="/"><p>Home</p></Link>
                     </li>
                     <li>

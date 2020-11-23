@@ -56,6 +56,9 @@ const Header = () => {
                 <div className="header__option">
                     <Link to="/orders"><span className="header__optionLine">Your Orders</span></Link>
                 </div> */}
+                    <div className="header__name">
+                        <p>{user ? user.displayName : 'Guest'}</p>
+                    </div>
                     <Link to="/checkout">
                         <div className="header__optionBasket">
                             <ShoppingCartIcon />
